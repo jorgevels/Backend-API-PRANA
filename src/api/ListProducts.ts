@@ -2769,19 +2769,19 @@ export const products: Product[] = [
       'oldPrice': 58000,
       'best': false,
       'featured': false,
-      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1712440726/MetaStore/Cromos-3_rrfzlz.jpg',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1712441618/MetaStore/Protn-1_x1eun4.jpg',
       'gallarey': [
         {
           'sku': 'v2SmiuNbZ8',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712440726/MetaStore/Cromos-2_wiqusy.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712441618/MetaStore/Protn-1_x1eun4.jpg',
         },
         {
           'sku': 'GP7Mv3RZR2',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712440726/MetaStore/Cromos-1_ga9wvv.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712441618/MetaStore/Protn-1_x1eun4.jpg',
         },
         {
           'sku': 'do4wJiZOc1',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712440726/MetaStore/Cromos-2_wiqusy.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712441618/MetaStore/Protn-1_x1eun4.jpg',
         },
       ],
       'stars': 5,
