@@ -2742,6 +2742,7 @@ export const products: Product[] = [
       'oldPrice': 99000,
       'best': false,
       'featured': false,
+      'time': 'Nuevo',
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1712440726/MetaStore/Cromos-3_rrfzlz.jpg',
       'gallarey': [
         {
@@ -2931,6 +2932,7 @@ export const products: Product[] = [
       'oldPrice': 60000,
       'best': false,
       'featured': false,
+      'time': 'Nuevo',
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1712441558/MetaStore/Total-4_xierac.jpg',
       'gallarey': [
         {
