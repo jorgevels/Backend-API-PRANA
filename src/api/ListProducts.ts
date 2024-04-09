@@ -52,7 +52,7 @@ export const products: Product[] = [
     
   {
       'id': '2',
-      'title': 'Tratamiento ',
+      'title': 'Tratamiento',
       'name': 'Mascarilla Acondicionante Fuerza y vigor',
       'brand': 'Kanechom',
       'price': 32000,
@@ -270,34 +270,6 @@ export const products: Product[] = [
       'stars': 3.5,
       'description': 'Ampolleta semillas de lino x 24 und x 12ml the Pearl collection, Tratamiento capilar intensivo tópico a base de aceites naturales ideal para cabellos maltratados enriquecido con extractos naturales, D-pantenol, karite, keratina, silicona y leche de cabra, fortalece desde la raíz del cuero cabelludo hasta las puntas, dándole a la fibra capilar nutrientes esenciales para su brillo, sedosidad, moldeamiento, suavidad Y estabilidad capilar. Libre de parabenos y de sal, ayuda a hidratar y a moldear la fibra capilar.',
     },
-    
-    {
-      'id': '10',
-      'title': 'Tratamiento',
-      'name': 'Tratamiento Crespos Divos',
-      'brand': 'kanechom',
-      'price': 36500,
-      'oldPrice': 41500,
-      'best': false,
-      'featured': false,
-      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775682/MetaStore/Crespos-divos_fdgkyp.png',
-      'gallarey': [
-        {
-          'sku': 'v2SmiuNbZ8',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775682/MetaStore/Crespos-divos_fdgkyp.png',
-        },
-        {
-          'sku': 'GP7Mv3RZR2',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775682/MetaStore/Crespos-divos_fdgkyp.png',
-        },
-        {
-          'sku': 'do4wJiZOc1',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775682/MetaStore/Crespos-divos_fdgkyp.png',
-        },
-      ],
-      'stars': 3.7,
-      'description': '¡Eres tú quien elige cómo utilizar los Crespos Divos Kanechom 3 en 1! El 3 en 1 Crespos Divos Kanechom es multifuncional y versátil, combinando acondicionador, hidratación y crema de peinado en un solo producto. Este es el producto ideal para quienes desean volumen, hidratación y fuerza, el aceite de ricino forma una capa protectora sobre el cabello y mejora la flexibilidad y suavidad.',
-  },
     {
       'id': '11',
       'title': 'Barbera',
@@ -772,15 +744,13 @@ export const products: Product[] = [
       'stars': 3.5,
       'description': '- Limpieza y desvanecimiento. - Lámina Hipoalergénica. - Puede usarse en todas las direcciones de la piel. - Afeitado sin dolor y tirones. - Repuestos genéricos. - Diseño ligero y ergonómico. - Motor potente y silencioso. - Recargable por USB. - Hasta 60 minutos de funcionamiento inalámbrica.',
     },
-    
-    
     {
       'id': '28',
       'title': 'Aceite',
       'name': 'Aceite Barba',
       'brand': 'BarberShop',
-      'price': 17000,
-      'oldPrice': 190000,
+      'price': 24000,
+      'oldPrice': 27000,
       'best': false,
       'featured': false,
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775681/MetaStore/Aceite-barba_f1vsay.jpg',
@@ -1052,7 +1022,7 @@ export const products: Product[] = [
     {
       'id': '38',
       'title': 'Beard',
-      'name': 'GEL AFEITAR BARBERSHOP',
+      'name': 'GEL AFEITAR',
       'brand': 'Barbershop',
       'price': 14000,
       'oldPrice': 19000,
@@ -1484,8 +1454,6 @@ export const products: Product[] = [
       'stars': 3.5,
       'description': 'Kanechom Total Restoration Conditioning Crema Hidratante tiene en su fórmula Manteca de Karité y Queratina Hidrolizada que promueven la hidratación, acondicionamiento y suavidad al cabello, devolviendo la grasa natural a las hebras, recuperando brillo y vitalidad.',
     },
-    
-    
     {
       'id': '54',
       'title': 'Tratamiento',
@@ -1759,7 +1727,7 @@ export const products: Product[] = [
     {
       'id': '64',
       'title': 'Cosmetics',
-      'name': 'Pestañina 5en1 Genius',
+      'name': 'Avon 5 En 1 Lash Genius Mascara Multibeneficios Para Pestañas - 10 ml',
       'brand': 'Avon',
       'price': 32000,
       'oldPrice': 36000,
@@ -1781,120 +1749,120 @@ export const products: Product[] = [
         },
       ],
       'stars': 3.5,
-      'description': 'Kanechom Crema Capilar Acondicionadora Fortificante, a base de rico extracto vegetal, suaviza el cabello favoreciendo el fortalecimiento de las hebras, además de hidratar el cabello aportando brillo natural.',
+      'description': 'Cepillo multiacción separa y maquilla cada pestaña. Su punta atiende cada detalle. Fórmula liviana. Fácil de remover. Ultrapigmentada. Color intenso. Cubre las pestañas de raíz a punta, de esquina a esquina sin dejar grumos. Beneficios basados en estudios clínicos y de percepción de consumidores.',
     },
     {
       'id': '65',
       'title': 'Cosmetics',
-      'name': 'Pestañina Avon TRUE',
+      'name': 'Avon Unlimited Mascara Para Pestañas - 10 g',
+      'brand': 'Avon',
+      'price': 23000,
+      'oldPrice': 28000,
+      'best': false,
+      'featured': false,
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1712688405/MetaStore/prod_1204107_1_lkwj45.jpg',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712688405/MetaStore/prod_1204107_1_lkwj45.jpg',
+        },
+        {
+          'sku': 'v2SmiuNbZ9',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712688405/MetaStore/prod_1204107_1_lkwj45.jpg',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712688405/MetaStore/prod_1204107_1_lkwj45.jpg',
+        },
+      ],
+      'stars': 3.5,
+      'description': 'Rizado por horas, levanta hasta 4 veces más tus pestañas. Cepillo curvo que alcanza cada pestaña para máximo nivel de elevación de la raíz hasta la punta.',
+    },
+    {
+      'id': '66',
+      'title': 'Cosmetics',
+      'name': 'Avon Ultra Volume Mascara A Prueba De Agua - 10 ml',
       'brand': 'Avon',
       'price': 32000,
       'oldPrice': 36000,
       'best': false,
       'featured': false,
-      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1712182625/MetaStore/Pesta%C3%B1ina-true_k6kjku.jpg',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1712688550/MetaStore/prod_1220116_1_kaoib3.jpg',
       'gallarey': [
         {
           'sku': 'v2SmiuNbZ8',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712182625/MetaStore/Pesta%C3%B1ina-true_k6kjku.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712688550/MetaStore/prod_1220116_1_kaoib3.jpg',
         },
         {
           'sku': 'v2SmiuNbZ9',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712182625/MetaStore/Pesta%C3%B1ina-true_k6kjku.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712688550/MetaStore/prod_1220116_1_kaoib3.jpg',
         },
         {
           'sku': 'do4wJiZOc1',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712182625/MetaStore/Pesta%C3%B1ina-true_k6kjku.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712688550/MetaStore/prod_1220116_1_kaoib3.jpg',
         },
       ],
       'stars': 3.5,
-      'description': 'Kanechom Crema Capilar Acondicionadora Fortificante, a base de rico extracto vegetal, suaviza el cabello favoreciendo el fortalecimiento de las hebras, además de hidratar el cabello aportando brillo natural.',
-    },
-    {
-      'id': '66',
-      'title': 'Cosmetics',
-      'name': 'Pestañina Avon TRUE',
-      'brand': 'Cysone',
-      'price': 32000,
-      'oldPrice': 36000,
-      'best': false,
-      'featured': false,
-      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1712182622/MetaStore/Pesta%C3%B1ina-magnetti_o7xrzo.jpg',
-      'gallarey': [
-        {
-          'sku': 'v2SmiuNbZ8',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712182622/MetaStore/Pesta%C3%B1ina-magnetti_o7xrzo.jpg',
-        },
-        {
-          'sku': 'v2SmiuNbZ9',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712182622/MetaStore/Pesta%C3%B1ina-magnetti_o7xrzo.jpg',
-        },
-        {
-          'sku': 'do4wJiZOc1',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712182622/MetaStore/Pesta%C3%B1ina-magnetti_o7xrzo.jpg',
-        },
-      ],
-      'stars': 3.5,
-      'description': 'Kanechom Crema Capilar Acondicionadora Fortificante, a base de rico extracto vegetal, suaviza el cabello favoreciendo el fortalecimiento de las hebras, además de hidratar el cabello aportando brillo natural.',
+      'description': 'Ultra volume waterproof mascara para volumen instantáneo y duradero ¡a prueba de agua y sudor! tecnología amplifibre con fibras de diferentes formas y tamaños. Dan más densidad a cada pestaña.',
     },
     {
       'id': '67',
       'title': 'Cosmetics',
-      'name': 'Pestañina Roja',
+      'name': 'Pestañina Roja COLORFIX Ultimate Volume',
       'brand': 'Esika',
-      'price': 32000,
-      'oldPrice': 36000,
+      'price': 24000,
+      'oldPrice': 28000,
       'best': false,
       'featured': false,
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1712182621/MetaStore/Pesta%C3%B1ina-roja_meeqay.jpg',
       'gallarey': [
         {
           'sku': 'v2SmiuNbZ8',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712182621/MetaStore/Pesta%C3%B1ina-roja_meeqay.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712705056/MetaStore/WhatsApp_Image_2024-04-09_at_6.23.39_PM_hug1ry.jpg',
         },
         {
           'sku': 'v2SmiuNbZ9',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712182621/MetaStore/Pesta%C3%B1ina-roja_meeqay.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712705052/MetaStore/WhatsApp_Image_2024-04-09_at_6.23.39_PM_1_cmce04.jpg',
         },
         {
           'sku': 'do4wJiZOc1',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712182621/MetaStore/Pesta%C3%B1ina-roja_meeqay.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712705049/MetaStore/WhatsApp_Image_2024-04-09_at_6.23.39_PM_2_uhqjbs.jpg',
         },
       ],
       'stars': 3.5,
-      'description': 'Kanechom Crema Capilar Acondicionadora Fortificante, a base de rico extracto vegetal, suaviza el cabello favoreciendo el fortalecimiento de las hebras, además de hidratar el cabello aportando brillo natural.',
+      'description': 'Máscara de pestañas que brinda volumen indestructible ¡a prueba de todo!.',
     },
     {
       'id': '68',
       'title': 'Cosmetics',
-      'name': 'Pestañina Morada',
+      'name': 'Pestañina Morada Mega Full Size Fácil Retirado',
       'brand': 'Esika',
-      'price': 32000,
-      'oldPrice': 36000,
+      'price': 25000,
+      'oldPrice': 33000,
       'best': false,
       'featured': false,
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1712182621/MetaStore/Pesta%C3%B1ina-morada_ap0unb.jpg',
       'gallarey': [
         {
           'sku': 'v2SmiuNbZ8',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712182621/MetaStore/Pesta%C3%B1ina-morada-2_mfywpw.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712701416/MetaStore/WhatsApp_Image_2024-04-09_at_5.22.56_PM_qflwoc.jpg',
         },
         {
           'sku': 'v2SmiuNbZ9',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712182621/MetaStore/Pesta%C3%B1ina-morada-2_mfywpw.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712701413/MetaStore/WhatsApp_Image_2024-04-09_at_5.22.56_PM_1_cdkv8k.jpg',
         },
         {
           'sku': 'do4wJiZOc1',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712182621/MetaStore/Pesta%C3%B1ina-morada-2_mfywpw.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712701410/MetaStore/WhatsApp_Image_2024-04-09_at_5.22.56_PM_2_k41n43.jpg',
         },
       ],
       'stars': 3.5,
-      'description': 'Kanechom Crema Capilar Acondicionadora Fortificante, a base de rico extracto vegetal, suaviza el cabello favoreciendo el fortalecimiento de las hebras, además de hidratar el cabello aportando brillo natural.',
+      'description': 'Máscara de pestañas #1 de ésika con efecto LARGO INSUPERABLE, de fácil retirado.',
     },
     {
       'id': '69',
       'title': 'Cosmetics',
-      'name': 'Pestañina Negra',
+      'name': 'Pestañina Negra Mega Multi Benefit',
       'brand': 'Esika',
       'price': 32000,
       'oldPrice': 36000,
@@ -1904,19 +1872,19 @@ export const products: Product[] = [
       'gallarey': [
         {
           'sku': 'v2SmiuNbZ8',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712182621/MetaStore/Pesta%C3%B1ina-negra_nzsuog.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712704815/MetaStore/WhatsApp_Image_2024-04-09_at_5.27.01_PM_vx1vdi.jpg',
         },
         {
           'sku': 'v2SmiuNbZ9',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712182621/MetaStore/Pesta%C3%B1ina-negra_nzsuog.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712704808/MetaStore/WhatsApp_Image_2024-04-09_at_5.27.01_PM_2_zhcves.jpg',
         },
         {
           'sku': 'do4wJiZOc1',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712182621/MetaStore/Pesta%C3%B1ina-negra_nzsuog.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712704811/MetaStore/WhatsApp_Image_2024-04-09_at_5.27.01_PM_1_aumrhx.jpg',
         },
       ],
       'stars': 3.5,
-      'description': 'Kanechom Crema Capilar Acondicionadora Fortificante, a base de rico extracto vegetal, suaviza el cabello favoreciendo el fortalecimiento de las hebras, además de hidratar el cabello aportando brillo natural.',
+      'description': 'Brinda 5 beneficios en 1 máscara: +Volumen + largo +rizado +definición +fortalecimiento',
   },
     
   //LOCIONES NATURA
