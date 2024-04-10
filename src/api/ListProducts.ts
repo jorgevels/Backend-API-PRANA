@@ -2908,7 +2908,7 @@ export const products: Product[] = [
   },
     {
       'id': '107',
-      'title': 'Waxes',
+      'title': 'Cosmetics',
       'name': 'Aceite de almendras',
       'brand': 'Kanechom',
       'price': 35000,
@@ -2932,11 +2932,11 @@ export const products: Product[] = [
         },
       ],
       'stars': 5,
-      'description': 'la cera moldeadora y fijadora Barber up vibra wax x480 g es ideal para todo tipo de cabello, esta enriquecida con extractos naturales como el D-pantenol, keratina, aceite de coco, que con su contenido de ácidos grasos le da engrosamiento a la fibra capilar. La cera vibra wax tiene una excelente fijación, no reseca el cuero cabelludo, está libre parabenos. Otorga fijación y definición a tu peinado.',
+      'description': 'El aceite de almendras Kanechom es versátil, se puede utilizar para hidratar y proteger la piel o para potenciar la hidratación del cabello. Rica en vitaminas, favorece la suavidad, la tersura y el perfume.',
   },
     {
       'id': '108',
-      'title': 'Waxes',
+      'title': 'Cosmetics',
       'name': 'Aceite de argan',
       'brand': 'Kanechom',
       'price': 35000,
@@ -2960,11 +2960,11 @@ export const products: Product[] = [
         },
       ],
       'stars': 5,
-      'description': 'la cera moldeadora y fijadora Barber up vibra wax x480 g es ideal para todo tipo de cabello, esta enriquecida con extractos naturales como el D-pantenol, keratina, aceite de coco, que con su contenido de ácidos grasos le da engrosamiento a la fibra capilar. La cera vibra wax tiene una excelente fijación, no reseca el cuero cabelludo, está libre parabenos. Otorga fijación y definición a tu peinado.',
+      'description': 'El aceite de argán Kanechom es conocido como el oro de Marruecos debido a su poder extremadamente hidratante. Permite que la piel absorba los nutrientes, dejándola suave y protegida.',
   },
     {
       'id': '109',
-      'title': 'Waxes',
+      'title': 'Cosmetics',
       'name': 'Aceite de coco',
       'brand': 'Kanechom',
       'price': 35000,
@@ -2988,7 +2988,7 @@ export const products: Product[] = [
         },
       ],
       'stars': 5,
-      'description': 'la cera moldeadora y fijadora Barber up vibra wax x480 g es ideal para todo tipo de cabello, esta enriquecida con extractos naturales como el D-pantenol, keratina, aceite de coco, que con su contenido de ácidos grasos le da engrosamiento a la fibra capilar. La cera vibra wax tiene una excelente fijación, no reseca el cuero cabelludo, está libre parabenos. Otorga fijación y definición a tu peinado.',
+      'description': 'Los Aceites Imperiales Kanechom con Coco son una combinación extraordinaria de aceites preciosos obtenidos de semillas, hierbas y frutas. Promueve la nutrición, repone la lubricidad esencial para la suavidad y vitalidad. Se puede utilizar para hidratar y proteger la piel o para potenciar la hidratación del cabello.',
     },
   // Otros productos...
 ];
