@@ -109,7 +109,7 @@ export const products: Product[] = [
   {
       'id': '4',
       'title': 'Tratamiento',
-      'name': 'Mais Cachos',
+      'name': 'Tratamiento Mais Cachos X1000Gr',
       'brand': 'Skala',
       'price': 23000,
       'oldPrice': 28000,
@@ -198,28 +198,28 @@ export const products: Product[] = [
       'oldPrice': 23000,
       'best': true,
       'featured': false,
-      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775683/MetaStore/Tratamiento-capilar_rcsw0w.jpg',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1712773726/MetaStore/haird-food_zmcisp.jpg',
       'gallarey': [
         {
           'sku': 'v2SmiuNbZ8',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775683/MetaStore/Tratamiento-capilar_rcsw0w.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712773726/MetaStore/PEAR0054-2_ycsqq7.jpg',
         },
         {
           'sku': 'GP7Mv3RZR2',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775683/MetaStore/Tratamiento-capilar_rcsw0w.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712773726/MetaStore/PEAR0054-3_dcexes.jpg',
         },
         {
           'sku': 'do4wJiZOc1',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775683/MetaStore/Tratamiento-capilar_rcsw0w.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712773726/MetaStore/PEAR0055-4_lfwaqb.jpg',
         },
       ],
       'stars': 5,
-      'description': 'Efectivo tratamiento capilar para que luzcas un Cabello hidratado y revitalizado. Contiene cera de abejas y agacate tratamiento perfecto para revitalizar cabellos débiles ó quebradizos, tratados con permanentes, alisados, cepillados y tinturados. Caída*: caída por quiebre.',
+      'description': 'El hair food the Pearl collection x 100g es un tratamiento capilar para cabellos resecos y maltratados con cera de abejas y aceite de aguacate, nutre hidrata y repara profundamente el cabello seco y maltratado. Ideal para usar en cabellos afro, y extremadamente secos.',
   },
   {
       'id': '8',
       'title': 'Tratamiento',
-      'name': 'Tratameinto capilar Comida para el cabello de Coco',
+      'name': 'Tratameinto capilar Comida de Coco',
       'brand': 'The Pear Colletions',
       'price': 22500,
       'oldPrice': 26000,
@@ -686,29 +686,29 @@ export const products: Product[] = [
     {
       'id': '25',
       'title': 'Beard',
-      'name': 'Aceite para Barba',
+      'name': 'Shampoo con minoxidil X250ML',
       'brand': 'BarberShop',
-      'price': 24000,
-      'oldPrice': 27000,
+      'price': 28000,
+      'oldPrice': 3000,
       'best': false,
       'featured': false,
-      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775681/MetaStore/Aceite-barba_f1vsay.jpg',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1712867298/MetaStore/BARBER0127_qq1jez.jpg',
       'gallarey': [
         {
           'sku': 'v2SmiuNbZ8',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775681/MetaStore/Aceite-barba_f1vsay.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712867299/MetaStore/BARBER0127-2_etl9i8.jpg',
         },
         {
           'sku': 'GP7Mv3RZR2',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775681/MetaStore/Aceite-barba_f1vsay.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712867298/MetaStore/BARBER0127-1_ypndqf.jpg',
         },
         {
           'sku': 'do4wJiZOc1',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775681/MetaStore/Aceite-barba_f1vsay.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712867301/MetaStore/BARBER0127-3_hsvmtp.jpg',
         },
       ],
       'stars': 3.5,
-      'description': 'Fórmula enriquecida con óleos. 100% vegetales. Textura leve. Desarrollado con aceites de semilla de maracayá. El Óleo hidratante otorga brillo, suavidad e hidratación inmediata. Ideal para suavizar y fortalecer la barba con aceite de maracuyá protección contra la resequedad, nutrición avanzada, brillo y luminosidad.',
+      'description': 'El shampoo con minoxidil the barbershop x 250ml para barba y cabello está diseñado con extractos naturales y vitaminas del complejo B, enfocado al fortalecimiento y reparación del cabello. Además de estimular el crecimiento, revitalizar las fibras capilares y disminuir la sensación de cabello graso, nuestro shampoo contiene minoxidil, un activo primordial para prevenir la caída del cabello y estimular el crecimiento fortaleciendo el folículo piloso.',
     },
     {
       'id': '26',
@@ -2905,6 +2905,33 @@ export const products: Product[] = [
       ],
       'stars': 5,
       'description': 'Ayuda a retener y mantener la humedad de la piel. Contiene componentes que promueven suavidad. además, cuenta con filtro UV y extracto de semilla de una que ayudan a disminuir los efectos perjudiciales de los radicales libres. producto libre de parabenos.',
+  },
+    {
+      'id': '107',
+      'title': 'Cosmetics',
+      'name': 'STICK Capilar anti frizz X70Gr',
+      'brand': 'Bosley',
+      'price': 37000,
+      'oldPrice': 39000,
+      'best': false,
+      'featured': false,
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1712776513/MetaStore/foto-blanca-stick_wjc8ma.jpg',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712776523/MetaStore/SALO0169_us2b3y.jpg',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712776524/MetaStore/SALO0169-1_rzbrxw.jpg',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712776526/MetaStore/SALO0169-2_hagkto.jpg',
+        },
+      ],
+      'stars': 5,
+      'description': 'El stick capilar anti frizz Bosley en barra es un innovador producto diseñado para controlar y reducir el frizz que estén en el cabello de manera rápida y efectiva. Con su práctico formato en barra, este producto se aplica directamente sobre el cabello, proporcionando una aplicación precisa y sin complicaciones, no deja residuos ni sensación grasosa. Su fórmula especial está enriquecida con ingredientes hidratantes y acondicionadores que ayudan a suavizar la cutícula del cabello, proporcionando un aspecto más liso y pulido ayudando a mantener el peinado intacto durante más tiempo, incluso en ambientes húmedos.',
     },
   // Otros productos...
 ];
