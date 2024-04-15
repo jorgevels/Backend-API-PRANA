@@ -307,19 +307,19 @@ export const products: Product[] = [
       'oldPrice': 25000,
       'best': true,
       'featured': true,
-      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1674774060/MetaStore/Gel-calient_iatyyl.jpg',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1713032594/MetaStore/BOSL0062_flifik.jpg',
       'gallarey': [
         {
           'sku': 'v2SmiuNbZ8',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1674774060/MetaStore/Gel-calient_iatyyl.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713032594/MetaStore/BOSL0062-1_gsobuh.jpg',
         },
         {
           'sku': 'GP7Mv3RZR2',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1674774060/MetaStore/Gel-calient_iatyyl.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713032594/MetaStore/BOSL0062-2_ioeynx.jpg',
         },
         {
           'sku': 'do4wJiZOc1',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1674774060/MetaStore/Gel-calient_iatyyl.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713032594/MetaStore/BOSL0062-3_srflv5.jpg',
         },
       ],
       'stars': 5,
@@ -358,21 +358,21 @@ export const products: Product[] = [
     {
       'id': '13',
       'title': 'Talco',
-      'name': 'Talco corporal',
+      'name': 'Talco corporal X200Gr',
       'brand': 'BarberShop',
-      'price': 19500,
-      'oldPrice': 22000,
+      'price': 7200,
+      'oldPrice': 8500,
       'best': false,
       'featured': false,
-      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775683/MetaStore/talco-corporal_m8fbaw.jpg',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1713209503/MetaStore/TALCO-200_Vmw9oDV_ops9h1.jpg',
       'gallarey': [
         {
           'sku': 'v2SmiuNbZ8',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775683/MetaStore/talco-corporal_m8fbaw.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713209503/MetaStore/TALCO-2002_oRMAUCx_whwdwk.jpg',
         },
         {
           'sku': 'GP7Mv3RZR2',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775683/MetaStore/talco-corporal_m8fbaw.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713209503/MetaStore/TALCO-2003_bqilBK4_bij2vy.jpg',
         },
         {
           'sku': 'do4wJiZOc1',
@@ -446,19 +446,19 @@ export const products: Product[] = [
       'oldPrice': 24000,
       'best': false,
       'featured': false,
-      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775683/MetaStore/Shampoo-kids_ikwmho.jpg',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1713033303/MetaStore/SHAMPOO-KIDS_O5PJz0u_dkyxlk.jpg',
       'gallarey': [
         {
           'sku': 'v2SmiuNbZ8',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775683/MetaStore/Shampoo-kids_ikwmho.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713033303/MetaStore/SHAMPOO-KIDS2_inahSzY_iljlbb.jpg',
         },
         {
           'sku': 'GP7Mv3RZR2',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775683/MetaStore/Shampoo-kids_ikwmho.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713033303/MetaStore/SHAMPOO-KIDS3_dSko8mu_j5lmqt.jpg',
         },
         {
           'sku': 'do4wJiZOc1',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775683/MetaStore/Shampoo-kids_ikwmho.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713033304/MetaStore/SHAMPOO-KIDS4_RwAzjay_rivwfr.jpg',
         },
       ],
       'stars': 2.7,
@@ -848,25 +848,25 @@ export const products: Product[] = [
     {
       'id': '31',
       'title': 'Shampoo',
-      'name': 'Shampoo sin sal',
+      'name': 'Shampoo sin sal X4Litros',
       'brand': 'Bosley',
       'price': 37000,
       'oldPrice': 41000,
       'best': false,
       'featured': false,
-      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1674774094/MetaStore/shampoo-sin-sal_dkgseg.jpg',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1713208453/MetaStore/BOSL0023_x0qs3l.jpg',
       'gallarey': [
         {
           'sku': 'v2SmiuNbZ8',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1674774094/MetaStore/shampoo-sin-sal_dkgseg.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713208453/MetaStore/BOSL0023-1_ob2chr.jpg',
         },
         {
           'sku': 'GP7Mv3RZR2',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1674774094/MetaStore/shampoo-sin-sal_dkgseg.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713208453/MetaStore/BOSL0023-3_sqarqw.jpg',
         },
         {
           'sku': 'do4wJiZOc1',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1674774094/MetaStore/shampoo-sin-sal_dkgseg.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713208453/MetaStore/BOSL0023-2_xmtlqd.jpg',
         },
       ],
       'stars': 3.5,
@@ -1198,30 +1198,30 @@ export const products: Product[] = [
     },
     {
       'id': '44',
-      'title': 'Polvo',
-      'name': 'Polvo Compacto',
+      'title': 'Cosmetics',
+      'name': 'Polvo Compacto Mixto',
       'brand': 'BarberShop',
-      'price': 17500,
-      'oldPrice': 21000,
+      'price': 58000,
+      'oldPrice': 59900,
       'best': false,
       'featured': false,
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1712008198/MetaStore/POLVO-COMPACTO-UND_mK9Mxvw_rj2b3j.jpg',
       'gallarey': [
         {
           'sku': 'v2SmiuNbZ8',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712008198/MetaStore/POLVO-COMPACTO-UND_mK9Mxvw_rj2b3j.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713209975/MetaStore/POLVO-COMPACTO-UND2_E9I1WB6_dh4dvo.jpg',
         },
         {
           'sku': 'GP7Mv3RZR2',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712008198/MetaStore/POLVO-COMPACTO-UND_mK9Mxvw_rj2b3j.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713209975/MetaStore/POLVO-COMPACTO-UND3_GlplNk9_a84xxb.jpg',
         },
         {
           'sku': 'do4wJiZOc1',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1712008198/MetaStore/POLVO-COMPACTO-UND_mK9Mxvw_rj2b3j.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713209976/MetaStore/POLVO-COMPACTO-UND4_1b0H9sT_a7j5fn.jpg',
         },
       ],
       'stars': 3.5,
-      'description': 'Donec tellus massa, tristique sit amet condim vel, facilisis quis sapien. Praesent id engmin rae sitf amet odio vulputate eleifend in in tortor. Sellus massa, tristique it amet cond coim vel, faci lisis rae Facilisis quis sapien. Praesent id enim sit amet odio vulputatefi.',
+      'description': 'El Polvo compacto mixto the barbershop x 6 unidades, es una novedosa formula diseñada para el hombre moderno, con polvo de arroz, vitamina E y filtro solar. brinda un excelente cubrimiento, quitando el brillo de la piel y camuflando imperfecciones que permiten lucir una piel con un aspecto más suave y tersa con un acabado natural. Es ideal para todo tipo de piel, viene en un solo tono traslucido lo que permite que se adapte a todo tipo y color de piel.',
     },
    {
       'id': '45',
@@ -2932,6 +2932,33 @@ export const products: Product[] = [
       ],
       'stars': 5,
       'description': 'El stick capilar anti frizz Bosley en barra es un innovador producto diseñado para controlar y reducir el frizz que estén en el cabello de manera rápida y efectiva. Con su práctico formato en barra, este producto se aplica directamente sobre el cabello, proporcionando una aplicación precisa y sin complicaciones, no deja residuos ni sensación grasosa. Su fórmula especial está enriquecida con ingredientes hidratantes y acondicionadores que ayudan a suavizar la cutícula del cabello, proporcionando un aspecto más liso y pulido ayudando a mantener el peinado intacto durante más tiempo, incluso en ambientes húmedos.',
+  },
+    {
+      'id': '108',
+      'title': 'Cosmetics',
+      'name': 'Polvo Compacto Bosley',
+      'brand': 'Bosley',
+      'price': 16000,
+      'oldPrice': 1800,
+      'best': false,
+      'featured': false,
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1713210403/MetaStore/BOSL0124_mSQ6woK_qxipuq.jpg',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713210404/MetaStore/BOSL0127-1_jvxx7z.jpg',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713210403/MetaStore/BOSL0126-1_fervjt.jpg',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713210406/MetaStore/BOSL0127-4_oqbqln.jpg',
+        },
+      ],
+      'stars': 5,
+      'description': 'Polvo compacto mixto Bosley x unidad, está hecho a base de polvo de arroz, que deja tu piel suave con sensación de terciopelo, gracias a los componentes como la vitamina E que ayuda a cubrir uniformemente las imperfecciones y filtro solar que protege la piel de los efectos nocivos de los rayos solares. El polvo compacto bosley ayuda a sellar el maquillaje y dejarlo más uniforme, mitifica la piel y controla la grasa para brindar un acabado mate muy natural.',
     },
   // Otros productos...
 ];
