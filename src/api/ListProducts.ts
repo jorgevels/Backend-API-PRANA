@@ -17,6 +17,7 @@ export type Product = {
   gallarey: { sku: string; url: string; }[];
   stars: number;
   description: string;
+  
 };
 
 // Define una lista de productos como una variable global (o exporta esta lista desde otro módulo)
@@ -47,7 +48,8 @@ export const products: Product[] = [
         },
       ],
       'stars': 4.5,
-      'description': 'La crema para peinar sin enjuague Divou Kanechom es un éxito ¡nutrición! Mucho brillo y suavidad, justo como tu cabello necesita. Increíble hidratación, mega reparación de puntas abiertas y remedio para el frizz. ¡Este es el producto que toda diva merece!',
+    'description': 'La crema para peinar sin enjuague Divou Kanechom es un éxito ¡nutrición! Mucho brillo y suavidad, justo como tu cabello necesita. Increíble hidratación, mega reparación de puntas abiertas y remedio para el frizz. ¡Este es el producto que toda diva merece!',
+   
   },
     
   {
@@ -84,7 +86,7 @@ export const products: Product[] = [
       'brand': 'Kanechom',
       'price': 32000,
       'oldPrice': 34000,
-      'best': false,
+      'best': true,
       'featured': false,
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1711038430/MetaStore/sossegada_ecjrki.png',
       'gallarey': [
@@ -471,7 +473,7 @@ export const products: Product[] = [
       'brand': 'Kanechom',
       'price': 35000,
       'oldPrice': 42000,
-      'best': false,
+      'best': true,
       'featured': true,
       'recommended': true,
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775683/MetaStore/Penteou-all_yigaj1.png',
@@ -603,30 +605,30 @@ export const products: Product[] = [
     },
     {
       'id': '22',
-      'title': 'Waxes',
-      'name': 'Cera Modeladora',
-      'brand': 'BarberShop',
+      'title': 'Lotions',
+      'name': 'Body Splash Fragancias surtidas',
+      'brand': 'Bosley',
       'price': 17000,
       'oldPrice': 19500,
       'best': false,
       'featured': false,
-      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775682/MetaStore/Cera-modeladora_horila.jpg',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1713825002/MetaStore/BOSL0165_PADRE__ljhp0e.jpg',
       'gallarey': [
         {
           'sku': 'v2SmiuNbZ8',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775682/MetaStore/Cera-modeladora_horila.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713825987/MetaStore/BOSL0163_qyywf0.jpg',
         },
         {
           'sku': 'GP7Mv3RZR2',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775682/MetaStore/Cera-modeladora_horila.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713825987/MetaStore/BOSL0165_ejelpw.jpg',
         },
         {
           'sku': 'do4wJiZOc1',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1674775682/MetaStore/Cera-modeladora_horila.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713825986/MetaStore/BOSL0162_eqlbcq.jpg',
         },
       ],
       'stars': 3.5,
-      'description': 'Con Keratina, biotina y pantenol, define, moldea y texturiza tu cabello.',
+      'description': 'Body Splash Fragancias surtidas: Coconut Breeze. Romantic Girl. Swette. Bella Bloom. Vainilla Dream ',
     },
     {
       'id': '23',
@@ -2959,6 +2961,87 @@ export const products: Product[] = [
       ],
       'stars': 5,
       'description': 'Polvo compacto mixto Bosley x unidad, está hecho a base de polvo de arroz, que deja tu piel suave con sensación de terciopelo, gracias a los componentes como la vitamina E que ayuda a cubrir uniformemente las imperfecciones y filtro solar que protege la piel de los efectos nocivos de los rayos solares. El polvo compacto bosley ayuda a sellar el maquillaje y dejarlo más uniforme, mitifica la piel y controla la grasa para brindar un acabado mate muy natural.',
+  },
+    {
+      'id': '109',
+      'title': 'FacialCare',
+      'name': 'Anew Solar Triple Protección Loción Facial Mate FPS50 - 50ml',
+      'brand': 'Avon',
+      'price': 43000,
+      'oldPrice': 47000,
+      'best': false,
+      'featured': false,
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1713826563/MetaStore/prod_1232119_1_m0cw4p.jpg',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713826563/MetaStore/prod_1232119_1_m0cw4p.jpg',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713826563/MetaStore/prod_1232119_1_m0cw4p.jpg',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713826563/MetaStore/prod_1232119_1_m0cw4p.jpg',
+        },
+      ],
+      'stars': 5,
+      'description': 'Proteccón solar antiedad FPS 50 contiene ácido hialurónico. Con propiedades antioxidantes y anti-edad que ayudan a detener la pérdida de colágeno en la piel.',
+  },
+    {
+      'id': '110',
+      'title': 'FacialCare',
+      'name': 'Anew Solar Triple Protección Loción Facial Mate Con Color FPS50 - 50ml',
+      'brand': 'Avon',
+      'price': 43000,
+      'oldPrice': 47000,
+      'best': false,
+      'featured': false,
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1713826562/MetaStore/prod_1232118_1_buv90a.jpg',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713826562/MetaStore/prod_1232118_1_buv90a.jpg',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713826562/MetaStore/prod_1232118_1_buv90a.jpg',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713826562/MetaStore/prod_1232118_1_buv90a.jpg',
+        },
+      ],
+      'stars': 5,
+      'description': 'Proteccón solar antiedad FPS 50 contiene protinol. Ayuda a impulsar la producción de colágeno, para una piel más firme y con menos líneas finas de expresión. Aspecto y tacto mate durante 12 horas.',
+  },
+    {
+      'id': '111',
+      'title': 'FacialCare',
+      'name': 'Anew Solar Triple Protección Loción Facial Mate FPS70 - 50ml',
+      'brand': 'Avon',
+      'price': 46000,
+      'oldPrice': 52000,
+      'best': false,
+      'featured': false,
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1713826562/MetaStore/prod_1232117_1_gyrhvy.jpg',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713826562/MetaStore/prod_1232117_1_gyrhvy.jpg',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713826562/MetaStore/prod_1232117_1_gyrhvy.jpg',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1713826562/MetaStore/prod_1232117_1_gyrhvy.jpg',
+        },
+      ],
+      'stars': 5,
+      'description': 'Proteccón solar antiedad FPS 70 contiene protinol. Ayuda a impulsar la producción de colágeno, para una piel más firme y con menos líneas finas de expresión.',
     },
   // Otros productos...
 ];
