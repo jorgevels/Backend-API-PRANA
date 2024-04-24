@@ -24,7 +24,7 @@ export type Product = {
 export const products: Product[] = [
   // TRATAMIENTOS
   {
-      'id': '1',
+      'id': 'UUIDP0001',
       'title': 'Tratamiento',
       'name': 'Tratamiento capilar DiVou',
       'brand': 'Kanechom',
@@ -53,7 +53,7 @@ export const products: Product[] = [
   },
     
   {
-      'id': '2',
+      'id': 'UUIDP0002',
       'title': 'Tratamiento',
       'name': 'Mascarilla Fuerza y vigor',
       'brand': 'Kanechom',
@@ -80,7 +80,7 @@ export const products: Product[] = [
       'description': 'La mascarilla acondicionadora Fuerza y Vigor, da una hidratación instantánea y vitalidad. Biotin y Jaborandi fortalecen los hilos y promueven la resistencia. Tiene una acción que ayuda al crecimiento del cabello.',
   },
     {
-      'id': '3',
+      'id': 'UUIDP0003',
       'title': 'Tratamiento',
       'name': 'Mascarilla acondicionante SosSegada',
       'brand': 'Kanechom',
@@ -109,7 +109,7 @@ export const products: Product[] = [
   // SKALA
   
   {
-      'id': '4',
+      'id': 'UUIDP0004',
       'title': 'Tratamiento',
       'name': 'Tratamiento Mais Cachos X1000Gr',
       'brand': 'Skala',
@@ -136,7 +136,7 @@ export const products: Product[] = [
       'description': 'Tratamiento Mais Cachos Skala - Nutrición y Definición Excepcional para tu Cabello Crespo 🌀 El Tratamiento Mais Cachos de Skala, también conocido como Skala Azul, es una revolución en el cuidado de los rizos. Diseñado para abrazar la belleza natural de tu cabello crespo.',
   },
   {
-      'id': '5',
+      'id': 'UUIDP0005',
       'title': 'Tratamiento',
       'name': 'Crema Hidratante 2En1 Babosa X1000Gr',
       'brand': 'Skala',
@@ -163,7 +163,7 @@ export const products: Product[] = [
       'description': 'La mascarilla y crema de peinar Babosa Skala fue especialmente diseñada para las onduladas.  Su fórmula no contiene sulfatos, parabenos, siliconas, petrolato ni aceite mineral. Su potente compuesto de aceites vegetales que ayuda a fortalecer y dar brillo al cabello: Aceite de girasol: rico en vitamina E, A y muchos minerales.',
   },
   {
-      'id': '6',
+      'id': 'UUIDP0006',
       'title': 'Tratamiento',
       'name': 'Tratamiento Divino Potao X1000Gr',
       'brand': 'Skala',
@@ -192,7 +192,7 @@ export const products: Product[] = [
         
   //PEAR COLLETIONS
   {
-      'id': '7',
+      'id': 'UUIDP0007',
       'title': 'Tratamiento',
       'name': 'Tratameinto capilar Comida para el cabello',
       'brand': 'The Pear Colletions',
@@ -219,7 +219,7 @@ export const products: Product[] = [
       'description': 'El hair food the Pearl collection x 100g es un tratamiento capilar para cabellos resecos y maltratados con cera de abejas y aceite de aguacate, nutre hidrata y repara profundamente el cabello seco y maltratado. Ideal para usar en cabellos afro, y extremadamente secos.',
   },
   {
-      'id': '8',
+      'id': 'UUIDP0008',
       'title': 'Tratamiento',
       'name': 'Tratameinto capilar Comida de Coco',
       'brand': 'The Pear Colletions',
@@ -246,7 +246,7 @@ export const products: Product[] = [
       'description': 'Efectivo tratamiento capilar para que luzcas un Cabello hidratado y revitalizado. Contiene cera de abejas y agacate tratamiento perfecto para revitalizar cabellos débiles ó quebradizos, tratados con permanentes, alisados, cepillados y tinturados. Caída*: caída por quiebre.',
   },
   {
-      'id': '9',
+      'id': 'UUIDP0009',
       'title': 'Tratamiento',
       'name': 'Tratamiento Capilar Semillas de Lino ',
       'brand': 'The Pearl Colletions',
@@ -273,12 +273,12 @@ export const products: Product[] = [
       'description': 'Ampolleta semillas de lino x 24 und x 12ml the Pearl collection, Tratamiento capilar intensivo tópico a base de aceites naturales ideal para cabellos maltratados enriquecido con extractos naturales, D-pantenol, karite, keratina, silicona y leche de cabra, fortalece desde la raíz del cuero cabelludo hasta las puntas, dándole a la fibra capilar nutrientes esenciales para su brillo, sedosidad, moldeamiento, suavidad Y estabilidad capilar. Libre de parabenos y de sal, ayuda a hidratar y a moldear la fibra capilar.',
     },
     {
-      'id': '10',
+      'id': 'UUIDP0010',
       'title': 'Barbera',
       'name': 'Barbera metalica camuflada',
       'brand': 'BarberShop',
-      'price': 22000,
-      'oldPrice': 20000,
+      'price': 25000,
+      'oldPrice': 28000,
       'best': true,
       'featured': true,
       'time': 'Nuevo',
@@ -298,10 +298,10 @@ export const products: Product[] = [
         },
       ],
       'stars': 2.7,
-      'description': 'Peine plano de 2 piezas Peine alisador de peluquería Peine de peluquería Peine recto en forma de V Peine alisador (rojo, rosado)',
+      'description': 'Barbera metalica estilo mariposa',
     },
     {
-      'id': '11',
+      'id': 'UUIDP0011',
       'title': 'BodyCream',
       'name': 'Gel caliente redutor prestige X500GR',
       'brand': 'Bosley',
@@ -329,7 +329,7 @@ export const products: Product[] = [
     },
   
     {
-      'id': '12',
+      'id': 'UUIDP0012',
       'title': 'Tratamiento',
       'name': 'Tratamiento capilar Embriones de Pato',
       'brand': 'tvpresto',
@@ -358,7 +358,7 @@ export const products: Product[] = [
     },
     
     {
-      'id': '13',
+      'id': 'UUIDP0013',
       'title': 'Talco',
       'name': 'Talco corporal X200Gr',
       'brand': 'BarberShop',
@@ -385,7 +385,7 @@ export const products: Product[] = [
       'description': 'Efectivo tratamiento capilar para que luzcas un Cabello hidratado y revitalizado. Contiene cera de abejas y agacate tratamiento perfecto para revitalizar cabellos débiles ó quebradizos, tratados con permanentes, alisados, cepillados y tinturados. Caída*: caída por quiebre.',
     },
     {
-      'id': '14',
+      'id': 'UUIDP0014',
       'title': 'Shampoo',
       'name': 'Shampoo sin sal flor de cerezo X475GR',
       'brand': 'The Pearl Colletions',
@@ -413,7 +413,7 @@ export const products: Product[] = [
       'description': 'El shampoo sin sal flor de cerezo x 475g the Pearl collection es ideal para todo tipo de cabello. ayuda a reparar el cabello desde la raiz hasta las puntas, blinda el cabello del daño causado por los minerales del agua, sus nutrientes y extractos naturales son ideales para el cuidado y la salud de tu cabello. Con extracto de caléndula, romero y cebolla estimulan el crecimiento repara hidrata y nutre el cuero cabelludo previniendo así la aparición de la caspa o seborrea, limpia profundamente y elimina los excesos de grasa brindando mayor hidratación, previniendo la caída del cabello y estimulando su crecimiento.',
     },
     {
-      'id': '15',
+      'id': 'UUIDP0015',
       'title': 'Polvo',
       'name': 'Polvo Compato',
       'brand': 'BarberShop',
@@ -440,7 +440,7 @@ export const products: Product[] = [
       'description': 'El polvo compacto translucido para hombres The Barbershop brinda ese toque final perfecto a la base y otros más productos cosméticos, brindando un efecto de color invisible e ingrávido, el cual brinda un acabo de apariencia natural en todo tipo de piel. Eliminando el aceite y el brillo sin acumulaciones innecesarias, este polvo para hombres totalmente translucido es increíblemente hidratante y trabaja incasablemente para secar todo el día, mientras que evita el caos y una apariencia fantasmal.',
     },
     {
-      'id': '16',
+      'id': 'UUIDP0016',
       'title': 'Shampoo',
       'name': 'Shampoo Kids',
       'brand': 'BarberShop',
@@ -467,7 +467,7 @@ export const products: Product[] = [
       'description': 'Shampoo Kids para cabello y cuerpo, con extractos naturales de caléndula, semilla de algodón, avena y aloe vera.',
     },
     {
-      'id': '17',
+      'id': 'UUIDP0017',
       'title': 'Tratamiento',
       'name': 'Tratamiento Capilar PenTeou',
       'brand': 'Kanechom',
@@ -495,7 +495,7 @@ export const products: Product[] = [
       'description': 'La crema de peinar sin enjuague Penteou Kanechom debe dejarse en elcabello sin miedo a ser feliz, ya que no necesita enjuague. Además, tiene mil y un  usos, sus múltiples beneficios y versatilidad ofrecen a tu cabello todo lo que necesita en un solo producto.',
     },
     {
-      'id': '18',
+      'id': 'UUIDP0018',
       'title': 'Peinilla',
       'name': 'Peinilla de Carbono',
       'brand': 'BarberShop',
@@ -522,7 +522,7 @@ export const products: Product[] = [
       'description': 'Peine Peinilla Cabello Cola Metálica.',
     },
     {
-      'id': '19',
+      'id': 'UUIDP0019',
       'title': 'BodyCream',
       'name': 'Crema satinada X120GR',
       'brand': 'Bosley',
@@ -550,7 +550,7 @@ export const products: Product[] = [
     },
     
     {
-      'id': '20',
+      'id': 'UUIDP0020',
       'title': 'BodyCream',
       'name': 'Crema humectante X975GR',
       'brand': 'The Pearl Colletions',
@@ -577,7 +577,7 @@ export const products: Product[] = [
       'description': 'Crema humectante the pearl collection x 975g, para manos y cuerpo con colágeno, elastina y Q10; deja tu piel suave y muy hidratada sin dejar sensación grasosa ya que su fórmula está diseñada para que se absorba muy rápido en la piel y conserve su humedad natural. El extracto de las almendras humecta profundamente, combate la resequedad y devuelve la suavidad y elasticidad a la piel. Adecuada para tipo de pieles, normales, secas o mixtas.',
     },
     {
-      'id': '21',
+      'id': 'UUIDP0021',
       'title': 'BodyCream',
       'name': 'Crema Exfoliante facial X25OGR',
       'brand': 'The Pearl Colletions',
@@ -604,12 +604,12 @@ export const products: Product[] = [
       'description': 'El exfoliante facial the Pearl collection x 250g elimina las células muertas e impurezas de la piel, dejándola renovada, suave y fresca. Tiene una consistencia cremosa y altamente humectante. Las semillas de albaricoque tienen propiedades antioxidantes y antiinflamatorias, Es ideal para todo tipo de piel..',
     },
     {
-      'id': '22',
+      'id': 'UUIDP0022',
       'title': 'Lotions',
       'name': 'Body Splash Fragancias surtidas',
       'brand': 'Bosley',
-      'price': 17000,
-      'oldPrice': 19500,
+      'price': 28000,
+      'oldPrice': 31000,
       'best': false,
       'featured': false,
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1713825002/MetaStore/BOSL0165_PADRE__ljhp0e.jpg',
@@ -631,7 +631,7 @@ export const products: Product[] = [
       'description': 'Body Splash Fragancias surtidas: Coconut Breeze. Romantic Girl. Swette. Bella Bloom. Vainilla Dream ',
     },
     {
-      'id': '23',
+      'id': 'UUIDP0023',
       'title': 'Tratamiento',
       'name': 'Tratamiento Capilar Chicle con Banana',
       'brand': 'Kanechom',
@@ -659,7 +659,7 @@ export const products: Product[] = [
       'description': 'La Mascarilla Hidratante Chiclé con Banana Kanechom es todo lo que siempre quisiste: ¡una fórmula grandilocuente que garantiza una nutrición maravillosa! ¡La fuerza y la hidratación del plátano para un cabello hermoso y un resultado increíble!',
     },
     {
-      'id': '24',
+      'id': 'UUIDP0024',
       'title': 'Afeitadora',
       'name': 'Afeitadora Electrica',
       'brand': 'Lexus',
@@ -686,7 +686,7 @@ export const products: Product[] = [
       'description': '- Limpieza y desvanecimiento. - Lámina Hipoalergénica. - Puede usarse en todas las direcciones de la piel. - Afeitado sin dolor y tirones. - Repuestos genéricos. - Diseño ligero y ergonómico. - Motor potente y silencioso. - Recargable por USB. - Hasta 60 minutos de funcionamiento inalámbrica.',
     },
     {
-      'id': '25',
+      'id': 'UUIDP0025',
       'title': 'Beard',
       'name': 'Shampoo con minoxidil X250ML',
       'brand': 'BarberShop',
@@ -713,7 +713,7 @@ export const products: Product[] = [
       'description': 'El shampoo con minoxidil the barbershop x 250ml para barba y cabello está diseñado con extractos naturales y vitaminas del complejo B, enfocado al fortalecimiento y reparación del cabello. Además de estimular el crecimiento, revitalizar las fibras capilares y disminuir la sensación de cabello graso, nuestro shampoo contiene minoxidil, un activo primordial para prevenir la caída del cabello y estimular el crecimiento fortaleciendo el folículo piloso.',
     },
     {
-      'id': '26',
+      'id': 'UUIDP0026',
       'title': 'Tratamiento',
       'name': 'Tratamiento uva frutos X24UND sachet X30GR',
       'brand': 'The Pearl Colletions',
@@ -740,7 +740,7 @@ export const products: Product[] = [
       'description': 'El tratamiento capilar multireparador antioxidante con extracto de uva y frutos rojos x 24 und en sachet x 30g the Pearl collection es ideal para cabellos muy maltratados ya que su fórmula avanzada y sus ingredientes activos, extracto de frutos rojos y uva, reparan, rejuvenecen y revitalizan la fibra capilar desde la raíz hasta las puntas, dejando el cabello suave, reparado y con una apariencia increíble.',
     },
     {
-      'id': '27',
+      'id': 'UUIDP0027',
       'title': 'Tratamiento',
       'name': 'Tratamiento Capilar con Biotina',
       'brand': 'The Pearl Colletions',
@@ -767,7 +767,7 @@ export const products: Product[] = [
       'description': 'La biotina the Pearl collection x 24und x5ml ofrece un tratamiento completo, fusionando todos los secretos que esconde la naturaleza ahora están a tu alcance para evitar la caída prematura del cabello, este es un tratamiento intensivo que actúa desde el cuero cabelludo fortaleciendo el cabello desde la raíz. Esta línea anti caída esta diseñada para uso profesional y uso personal, ideal para prevenir la caída del cabello, y estimular el crecimiento de cabello más fuerte y sano.',
     },
     {
-      'id': '28',
+      'id': 'UUIDP0028',
       'title': 'Tratamiento',
       'name': 'Tratamiento Capilar con aceite de Argan',
       'brand': 'The Pearl Colletions',
@@ -794,7 +794,7 @@ export const products: Product[] = [
       'description': 'Tratamiento capilar de argán x 24und x 5ml the Pearl collection, restaura notablemente el brillo del cabello, protege del calor, desenreda, suaviza y ayuda a reparar las puntas abiertas, este es un tratamiento intensivo que actúa desde el cuero cabelludo fortaleciendo el cuero cabelludo desde la raíz. Ideal para cabellos secos, maltratados y sin brillo.',
     },
     {
-      'id': '29',
+      'id': 'UUIDP0029',
       'title': 'Shampoo',
       'name': 'Shampoo Efecto Liso',
       'brand': 'Kanechom',
@@ -821,7 +821,7 @@ export const products: Product[] = [
       'description': 'La crema sin enjuague Kanechom Smooth Effect promueve la peinabilidad, la sensación de suavidad y el efecto anti-frizz. La Queratina Vegetal y el D - Pantenol dejan el cabello disciplinado, promoviendo un cabello suave por más tiempo. El Complejo K, un ingrediente activo innovador y completa tecnología Kanechom, proporciona una de forma inteligente, reemplazando proteínas y aminoácidos.',
     },
     {
-      'id': '30',
+      'id': 'UUIDP0030',
       'title': 'Shampoo',
       'name': 'Shampoo Kids',
       'brand': 'Kanechom',
@@ -848,7 +848,7 @@ export const products: Product[] = [
       'description': 'Kanechom Kids Protein Shampoo con fórmula balanceada es tan suave que no irrita el cuero cabelludo, la piel y los ojos y se puede usar todos los días, dejando el cabello suave, brillante y fácil de peinar además de delicadamente perfumado. Se recomienda para todo tipo de cabello. Probado y aprobado bajo control dermatológico.',
     },
     {
-      'id': '31',
+      'id': 'UUIDP0031',
       'title': 'Shampoo',
       'name': 'Shampoo sin sal X4Litros',
       'brand': 'Bosley',
@@ -875,7 +875,7 @@ export const products: Product[] = [
       'description': 'Shampoo bosley x 4000 ml es una Fórmula ideal para todo tipo de cabello. Ayuda a reparar el cabello hasta el interior y blinda contra el daño causado por los minerales de agua, sus nutrientes y extractos naturales son ideal para restaurar y mantener la salud del cabello. Un shampoo esencial para el cuidado y protección del cabello. Ya que sus extractos de caléndula, cebolla y romero estimulan el crecimiento, repara, hidrata y nutre el cabello previniendo así la aparición de caspa y seborrea; limpia profundamente y elimina los excesos de grasa brindando mayor hidratación, previene la caída y estimula el crecimiento del cabello.',
     },
     {
-      'id': '32',
+      'id': 'UUIDP0032',
       'title': 'BodyCream',
       'name': 'Gel caliente muscular X300GR',
       'brand': 'The Pearl Colletions',
@@ -902,7 +902,7 @@ export const products: Product[] = [
       'description': 'El gel calmante muscular the Pearl collection x 300g ayuda a liberar la tensión muscular y relajar. El gel caliente esta hecho a base de extractos naturales como el aceite de semillas de cannabis, pronto alivio, caléndula, castaño de indias, que ayudan a tratar los dolores musculares, y de articulaciones provocados por enfermedades degenerativas de los músculos o lesiones ocasionadas por actividades diarias.',
     },
     {
-      'id': '33',
+      'id': 'UUIDP0033',
       'title': 'BodyCream',
       'name': 'Gel Frio Anti-Estrias',
       'brand': 'Bosley',
@@ -929,7 +929,7 @@ export const products: Product[] = [
       'description': 'Donec tellus massa, tristique sit amet condim vel, facilisis quis sapien. Praesent id engmin rae sitf amet odio vulputate eleifend in in tortor. Sellus massa, tristique it amet cond coim vel, faci lisis rae Facilisis quis sapien. Praesent id enim sit amet odio vulputatefi.',
     },
     {
-      'id': '34',
+      'id': 'UUIDP0034',
       'title': 'BodyCream',
       'name': 'Gel hidratante after sun aloe vera',
       'brand': 'The Pearl Colletions',
@@ -956,7 +956,7 @@ export const products: Product[] = [
       'description': 'gel hidratante after sun x275g, es un gel multi beneficio que nutre, limpia, pule y suaviza la piel, enriquecido con nutrientes naturales como la caléndula, aloe, filtro solar, gracias a sus propiedades antinflamatorias y analgésicas actúa como bio regenerador celular con propiedades refrescantes y calmantes, de rápida absorción, puede usarse después de tener la piel expuesta al sol, o sobre la piel irritada por el afeitado, depilación o quemaduras. Con una textura suave y no grasa ayuda a proteger y mantener la tersura, suavidad y elasticidad de la piel.',
     },
     {
-      'id': '35',
+      'id': 'UUIDP0035',
       'title': 'Beard',
       'name': 'Gel para afeitar',
       'brand': 'Barbershop',
@@ -983,7 +983,7 @@ export const products: Product[] = [
       'description': 'El gel para afeitar the barbershop for men x 250ml es una formula enriquecida con áloe vera y vitamina E, está diseñado para facilitar el afeitado mejorando el deslizamiento de la cuchilla, protegiendo la piel de la irritación y posibles cortes. no contiene alcohol.',
     },
     {
-      'id': '36',
+      'id': 'UUIDP0036',
       'title': 'BodyCream',
       'name': 'Crema exfoliante de chocolate',
       'brand': 'Bosley',
@@ -1010,7 +1010,7 @@ export const products: Product[] = [
       'description': 'La crema exfoliante postre de chocolate x 1000ml bosley para manos y cuerpo, es una crema humectante que está recomendada para el cuidado y protección de la piel. Sus gránulos exfoliantes eliminan las células muertas; la elastina y el Karité, nutren y suavizan la piel. El postre de chocolate hidrata y exfolia tiene gránulos exfoliantes de semillas de albaricoque que es reconocido por sus poder antioxidante y antinflamatorios, además de sus propiedades humectantes y suavizantes, el chocolate brinda a la piel mucha hidratación y una sensación de relajación.',
     },
     {
-      'id': '37',
+      'id': 'UUIDP0037',
       'title': 'BodyCream',
       'name': 'Crema Exfoliante de Fresa',
       'brand': 'Bosley',
@@ -1037,7 +1037,7 @@ export const products: Product[] = [
       'description': 'La crema exfoliante postre de fresa x 1000 ml bosley para manos y cuerpo, es una crema humectante que está recomendada para el cuidado y protección de la piel. Sus gránulos exfoliantes eliminan las células muertas; la elastina y el Karité, nutren y suavizan la piel. El postre de fresa hidrata y exfolia tiene gránulos exfoliantes de semillas de albaricoque que es reconocido por sus poder antioxidante y antinflamatorios, además de sus propiedades humectantes y suavizantes.',
     },
     {
-      'id': '38',
+      'id': 'UUIDP0038',
       'title': 'BodyCream',
       'name': 'Crema exfoliante de naranja',
       'brand': 'Bosley',
@@ -1064,7 +1064,7 @@ export const products: Product[] = [
       'description': 'La crema exfoliante postre de Naranja x 1000 ml bosley para manos y cuerpo, es una crema humectante que está recomendada para el cuidado y protección de la piel. Sus gránulos exfoliantes eliminan las células muertas; la elastina y el Karité, nutren y suavizan la piel. El postre de fresa hidrata y exfolia tiene gránulos exfoliantes de semillas de albaricoque que es reconocido por sus poder antioxidante y antinflamatorios, además de sus propiedades humectantes y suavizantes.',
     },
     {
-      'id': '39',
+      'id': 'UUIDP0039',
       'title': 'Peines',
       'name': 'Estuche de Peines',
       'brand': 'BarberShop',
@@ -1091,7 +1091,7 @@ export const products: Product[] = [
       'description': 'Donec tellus massa, tristique sit amet condim vel, facilisis quis sapien. Praesent id engmin rae sitf amet odio vulputate eleifend in in tortor. Sellus massa, tristique it amet cond coim vel, faci lisis rae Facilisis quis sapien. Praesent id enim sit amet odio vulputatefi.',
     },
     {
-      'id': '40',
+      'id': 'UUIDP0040',
       'title': 'Cepillo',
       'name': 'Cepillo para planchados',
       'brand': 'BarberShop',
@@ -1118,7 +1118,7 @@ export const products: Product[] = [
       'description': 'Donec tellus massa, tristique sit amet condim vel, facilisis quis sapien. Praesent id engmin rae sitf amet odio vulputate eleifend in in tortor. Sellus massa, tristique it amet cond coim vel, faci lisis rae Facilisis quis sapien. Praesent id enim sit amet odio vulputatefi.',
     },
     {
-      'id': '41',
+      'id': 'UUIDP0041',
       'title': 'Peinilla',
       'name': 'Peinilla para Planchar',
       'brand': 'BarberShop',
@@ -1145,7 +1145,7 @@ export const products: Product[] = [
       'description': 'Donec tellus massa, tristique sit amet condim vel, facilisis quis sapien. Praesent id engmin rae sitf amet odio vulputate eleifend in in tortor. Sellus massa, tristique it amet cond coim vel, faci lisis rae Facilisis quis sapien. Praesent id enim sit amet odio vulputatefi.',
     },
     {
-      'id': '42',
+      'id': 'UUIDP0042',
       'title': 'Papel',
       'name': 'Papel-Termoreductor',
       'brand': 'Bosley',
@@ -1172,7 +1172,7 @@ export const products: Product[] = [
       'description': 'Donec tellus massa, tristique sit amet condim vel, facilisis quis sapien. Praesent id engmin rae sitf amet odio vulputate eleifend in in tortor. Sellus massa, tristique it amet cond coim vel, faci lisis rae Facilisis quis sapien. Praesent id enim sit amet odio vulputatefi.',
     },
     {
-      'id': '43',
+      'id': 'UUIDP0043',
       'title': 'Atomizador',
       'name': 'Atomizador Secador',
       'brand': 'Bosley',
@@ -1199,7 +1199,7 @@ export const products: Product[] = [
       'description': 'Donec tellus massa, tristique sit amet condim vel, facilisis quis sapien. Praesent id engmin rae sitf amet odio vulputate eleifend in in tortor. Sellus massa, tristique it amet cond coim vel, faci lisis rae Facilisis quis sapien. Praesent id enim sit amet odio vulputatefi.',
     },
     {
-      'id': '44',
+      'id': 'UUIDP0044',
       'title': 'Cosmetics',
       'name': 'Polvo Compacto Mixto',
       'brand': 'BarberShop',
@@ -1226,7 +1226,7 @@ export const products: Product[] = [
       'description': 'El Polvo compacto mixto the barbershop x 6 unidades, es una novedosa formula diseñada para el hombre moderno, con polvo de arroz, vitamina E y filtro solar. brinda un excelente cubrimiento, quitando el brillo de la piel y camuflando imperfecciones que permiten lucir una piel con un aspecto más suave y tersa con un acabado natural. Es ideal para todo tipo de piel, viene en un solo tono traslucido lo que permite que se adapte a todo tipo y color de piel.',
     },
    {
-      'id': '45',
+      'id': 'UUIDP0045',
       'title': 'StylingCream',
       'name': 'Crema de peinar Unicornio',
       'brand': 'Kanechom',
@@ -1253,7 +1253,7 @@ export const products: Product[] = [
       'description': 'La Crema Para Peinar Kanechom Unicornio fue desarrollada para mantener el cabello hidratado y los reflejos resaltados, además de proporcionar esa Mega definición que nos encanta.',
     },
     {
-      'id': '46',
+      'id': 'UUIDP0046',
       'title': 'StylingCream',
       'name': 'Crema de peinar Unicornio con Gliter',
       'brand': 'Kanechom',
@@ -1280,7 +1280,7 @@ export const products: Product[] = [
       'description': 'La Crema Para Peinar Kanechom Unicornio fue desarrollada para mantener el cabello hidratado y los reflejos resaltados, además de proporcionar esa Mega definición que nos encanta.',
     },
     {
-      'id': '47',
+      'id': 'UUIDP0047',
       'title': 'Tratamiento',
       'name': 'Power Cachos 3x1',
       'brand': 'Kanechon',
@@ -1307,7 +1307,7 @@ export const products: Product[] = [
       'description': 'La línea #POWERCACHOS Kanechom tiene una fórmula exclusiva desarrollada con aceite de coco y aloe, activos altamente hidratantes, para tratar tus curvas con mimo y amor, dejando tus rizos increíbles, suaves y definidos. ¡Esta línea es poder! Rica en proteína de suero, que fortalece y acelera el crecimiento del cabello.',
     },
     {
-      'id': '48',
+      'id': 'UUIDP0048',
       'title': 'Tratamiento',
       'name': 'Kit Power Cachos',
       'brand': 'Kanechom',
@@ -1334,7 +1334,7 @@ export const products: Product[] = [
       'description': 'La línea #POWERCACHOS de Kanechom cuenta con una fórmula exclusiva, desarrollada con aceite de coco y aloe vera, activos altamente hidratantes, para tratar tus curvas con mimo y amor, dejando tus rizos increíbles, suaves y definidos. ¡Esta línea es poder! Rico en proteína de suero, que fortalece y acelera el crecimiento del cabello.',
     },
     {
-      'id': '49',
+      'id': 'UUIDP0049',
       'title': 'StylingCream',
       'name': 'Crema de peinar La Crou',
       'brand': 'Kanechon',
@@ -1361,7 +1361,7 @@ export const products: Product[] = [
       'description': 'La crema para peinar sin enjuague Lacrou Kanechom es ideal para potenciar Los rizos y dan un impulso extra de volumen. Potencia tus rizos, dale eso definición que necesita, además de favorecer la suavidad y el brillo.',
     },
     {
-      'id': '50',
+      'id': 'UUIDP0050',
       'title': 'Tratamiento',
       'name': 'Manteca de Karite Restauracion Total',
       'brand': 'Kanechom',
@@ -1388,7 +1388,7 @@ export const products: Product[] = [
       'description': 'Kanechom Total Restoration Conditioning Crema Hidratante tiene en su fórmula Manteca de Karité y Queratina Hidrolizada que promueven la hidratación, acondicionamiento y suavidad al cabello, devolviendo la grasa natural a las hebras, recuperando brillo y vitalidad.',
     },
     {
-      'id': '51',
+      'id': 'UUIDP0051',
       'title': 'Tratamiento',
       'name': 'Mascarilla acondicionante Chicle con Banana',
       'brand': 'Kanechom',
@@ -1415,7 +1415,7 @@ export const products: Product[] = [
       'description': 'La Mascarilla Hidratante Chiclé con Banana Kanechom es todo lo que siempre quisiste: ¡una fórmula grandilocuente que garantiza una nutrición maravillosa! ¡La fuerza y la hidratación del plátano para un cabello hermoso y un resultado increíble!',
     },
     {
-      'id': '52',
+      'id': 'UUIDP0052',
       'title': 'Tratamiento',
       'name': 'Fortificación de Jaborandi',
       'brand': 'Kanechom',
@@ -1442,7 +1442,7 @@ export const products: Product[] = [
       'description': 'Kanechom Crema Capilar Acondicionadora Fortificante, a base de rico extracto vegetal, suaviza el cabello favoreciendo el fortalecimiento de las hebras, además de hidratar el cabello aportando brillo natural.',
     },
     {
-      'id': '53',
+      'id': 'UUIDP0053',
       'title': 'Locion refrescante',
       'name': 'loción refrescante antibacterial',
       'brand': 'BarberShop',
@@ -1469,7 +1469,7 @@ export const products: Product[] = [
       'description': 'loción refrescante antibacterial the barbershop x 250ml for men para después de la afeitada refresca y suaviza la piel, evita que la piel se irrite después de la rasurada, esta fórmula es a base de alcohol eucalipto y mentol, es una loción desinfectante y antibacterial que también se puede usar para refrescar la piel y como repelente.',
     },
     {
-      'id': '54',
+      'id': 'UUIDP0054',
       'title': 'Minoxidil',
       'name': 'Minoxidil The BarberShop',
       'brand': 'BarberShop',
@@ -1496,7 +1496,7 @@ export const products: Product[] = [
       'description': 'El minoxidil the barbershop for men x 120ml tiene una concentración de 5 % de mxd, es una molécula que penetra los folículos, para que produzcan finos vellos que con el tiempo se van desarrollando, además acelera las etapas del bello común, logrando que crezcan y logren grosor mucho más rápido de lo normal. Por lo que no solo es útil para las personas lampiñas o de poco vello facial, si no también si no para los que desean una barba más abundante, gruesa y poblada. Sin olor y fácil aplicación.',
     },
     {
-      'id': '55',
+      'id': 'UUIDP0055',
       'title': 'Balsamo',
       'name': 'Balsamo the BarberShop',
       'brand': 'BarberShop',
@@ -1523,7 +1523,7 @@ export const products: Product[] = [
       'description': 'El bálsamo the barbershop for men x 4000 ml Es un tratamiento repolarizado, con extractos naturales que aportan brillo, suavidad, protección y acondiciona el cabello. Contiene aceites esenciales que lubrican fortifican y engrosan el cabello.',
     },
     {
-      'id': '56',
+      'id': 'UUIDP0056',
       'title': 'Waxes',
       'name': 'Cera moldeadora y fijadora  X190GR',
       'brand': 'BarberShop',
@@ -1550,7 +1550,7 @@ export const products: Product[] = [
       'description': 'La cera moldeadora y fijadora the barbershop x 190g Facilita el peinado, ayuda a tener un peinado definido libre de frizz, no deja sensación grasosa o acartonado, con Biotina, Vitamina E, Filtro solar, silicona y pantenol. Libre de Parabenos. La cera the barbershop es ideal para todo tipo de cabello, define, moldea y texturiza.',
     },
     {
-      'id': '57',
+      'id': 'UUIDP0057',
       'title': 'Waxes',
       'name': 'Cera moldeadora y fijadora X190GR',
       'brand': 'BarberShop',
@@ -1577,7 +1577,7 @@ export const products: Product[] = [
       'description': 'La cera moldeadora y fijadora cx x 190g the barbershop for men Previene la caída del cabello. Otorga fijación y definición a tu peinado, a la vez lo revitaliza y acondiciona. Contiene ceramidas vegetales que ayudan a mantener la elasticidad del cuero cabelludo y del cabello. Por sus componentes activos de aceite de semilla de girasol y aceite de soja es ideal para cabellos secos, gracias a sus propiedades humectantes e hidratantes.',
     },
     {
-      'id': '58',
+      'id': 'UUIDP0058',
       'title': 'Waxes',
       'name': 'Cera Black The BarberShop X190GR',
       'brand': 'BarberShop',
@@ -1604,7 +1604,7 @@ export const products: Product[] = [
       'description': 'La cera black the barbershop x 190g es una cera tipo gel, que moldea y texturiza el cabello, ayuda matizar, disimular las canas e intensifica la tonalidad, ya que la cera aporta color negro al cabello. Contiene coco que es conocido por sus propiedades hidratantes y nutritivas, además aporta brillo y suavidad, sin dejar el pelo graso. Por otra parte, también protege la fibra capilar evitando la rotura del cabello y aportándole fuerza',
     },
     {
-      'id': '59',
+      'id': 'UUIDP0059',
       'title': 'FacialCare',
       'name': 'Primer Makeup Ultraluxe',
       'brand': 'Bosley',
@@ -1631,7 +1631,7 @@ export const products: Product[] = [
       'description': 'El primer makeup ultra luxe es una pre base ideal para acondicionar la piel y que estÃ© preparada a la hora de aplicar los demÃ¡s productos, El primer de maquillaje suaviza la piel, reduce visiblemente las arrugas o los poros, disimula las marcas de acnÃ© y otras imperfecciones que se puedan tener. El uso del primer tambiÃ©n juega un papel fundamental a la hora de dar mayor duraciÃ³n al maquillaje; gracias a su fÃ³rmula en gel es ideal para todo tipo de piel especialmente para las personas con piel grasa.',
     },
     {
-      'id': '60',
+      'id': 'UUIDP0060',
       'title': 'Cosmetics',
       'name': 'Mantequilla Corporal X185GR',
       'brand': 'Bosley',
@@ -1658,7 +1658,7 @@ export const products: Product[] = [
       'description': 'La mantequilla ultra hidratante bosley x185g ha sido creada para brindar a tu piel alta hidratación, nutrición, y suavidad profunda, con ingredientes naturales como la manteca de cacao y karite, aceite de coco y derivados de oliva, que son conocidos por sus excelentes beneficios para tener una piel sana e hidratada profundamente, en combinación con un activo antibacterial que permite protegerte de los factores externos del medio ambiente. La mantequilla corporal bosley aparte de brindar a la piel una hidratación profunda aporta finos destellos con shimmer dejando la piel con un aspecto y una fragancia irresistible.',
     },
     {
-      'id': '61',
+      'id': 'UUIDP0061',
       'title': 'Cosmetics',
       'name': 'Pestañina 5 En 1 Lash Genius',
       'brand': 'Avon',
@@ -1685,7 +1685,7 @@ export const products: Product[] = [
       'description': 'Mascara Multibeneficios Para Pestañas - 10 ml con Cepillo multiacción separa y maquilla cada pestaña. Su punta atiende cada detalle. Fórmula liviana. Fácil de remover. Ultrapigmentada. Color intenso. Cubre las pestañas de raíz a punta, de esquina a esquina sin dejar grumos. Beneficios basados en estudios clínicos y de percepción de consumidores.',
     },
     {
-      'id': '62',
+      'id': 'UUIDP0062',
       'title': 'Cosmetics',
       'name': 'Pestañina Unlimited X10GR',
       'brand': 'Avon',
@@ -1712,7 +1712,7 @@ export const products: Product[] = [
       'description': 'Rizado por horas, levanta hasta 4 veces más tus pestañas. Cepillo curvo que alcanza cada pestaña para máximo nivel de elevación de la raíz hasta la punta.',
     },
     {
-      'id': '63',
+      'id': 'UUIDP0063',
       'title': 'Cosmetics',
       'name': 'Pestañina a Prueba De Agua X10ml',
       'brand': 'Avon',
@@ -1739,7 +1739,7 @@ export const products: Product[] = [
       'description': 'Ultra volume waterproof mascara para volumen instantáneo y duradero ¡a prueba de agua y sudor! tecnología amplifibre con fibras de diferentes formas y tamaños. Dan más densidad a cada pestaña.',
     },
     {
-      'id': '64',
+      'id': 'UUIDP0064',
       'title': 'Cosmetics',
       'name': 'Pestañina Roja COLORFIX Ultimate Volume',
       'brand': 'Esika',
@@ -1766,7 +1766,7 @@ export const products: Product[] = [
       'description': 'Máscara de pestañas que brinda volumen indestructible ¡a prueba de todo!.',
     },
     {
-      'id': '65',
+      'id': 'UUIDP0065',
       'title': 'Cosmetics',
       'name': 'Pestañina Morada Mega Full Size Fácil Retirado',
       'brand': 'Esika',
@@ -1793,7 +1793,7 @@ export const products: Product[] = [
       'description': 'Máscara de pestañas #1 de ésika con efecto LARGO INSUPERABLE, de fácil retirado.',
     },
     {
-      'id': '66',
+      'id': 'UUIDP0066',
       'title': 'Cosmetics',
       'name': 'Pestañina Negra Mega Multi Benefit',
       'brand': 'Esika',
@@ -1822,7 +1822,7 @@ export const products: Product[] = [
     
   //LOCIONES NATURA
     {
-      'id': '67',
+      'id': 'UUIDP0067',
       'title': 'Lotions',
       'name': 'Locion Kaiak Clasica femenina',
       'brand': 'Natura',
@@ -1849,7 +1849,7 @@ export const products: Product[] = [
       'description': 'La misma fragancia ahora en nuevo envase más sustentable. Camino olfativo: Cítrico. Bergamota, mandarina, jazmín Una frescura vibrante en una tarde soleada. Este clásico de la perfumería brasileña aporta una deslumbrante explosión cítrica de bergamota y naranja, con notas femeninas de jazmín. Nuevo envase hecho con más del 50% de plástico reciclado.',
     },
     {
-      'id': '68',
+      'id': 'UUIDP0068',
       'title': 'Lotions',
       'name': 'Locion Kaiak vital femenina',
       'brand': 'Natura',
@@ -1876,7 +1876,7 @@ export const products: Product[] = [
       'description': 'La misma fragancia ahora en nuevo envase más sustentable. Camino olfativo: Cítrico. Bergamota, mandarina, jazmín Una frescura vibrante en una tarde soleada. Este clásico de la perfumería brasileña aporta una deslumbrante explosión cítrica de bergamota y naranja, con notas femeninas de jazmín. Nuevo envase hecho con más del 50% de plástico reciclado.',
     },
     {
-      'id': '69',
+      'id': 'UUIDP0069',
       'title': 'Lotions',
       'name': 'Locion Kaiak Oceano femenina',
       'brand': 'Natura',
@@ -1903,7 +1903,7 @@ export const products: Product[] = [
       'description': 'Camino olfativo: Floral. Algas marinas, pataqueira, frutal acuoso.',
     },
     {
-      'id': '70',
+      'id': 'UUIDP0070',
       'title': 'Lotions',
       'name': 'Locion Kaiak Aero femenina',
       'brand': 'Natura',
@@ -1930,7 +1930,7 @@ export const products: Product[] = [
       'description': 'Aromático Floral., un acorde cítrico y aromático con la presencia de lavanda y peonía. La combinación única de estos elementos aporta una explosión de frescura y feminidad.',
     },
     {
-      'id': '71',
+      'id': 'UUIDP0071',
       'title': 'Lotions',
       'name': 'Locion Kaiak Aventura femenina',
       'brand': 'Natura',
@@ -1957,7 +1957,7 @@ export const products: Product[] = [
       'description': 'La misma fragancia ahora en nuevo envase más sustentable. Camino olfativo: Floral. Peonia, jazmín, notas acuosas La combinación perfecta de agua, sol y bosque. Notas acuosas y verdes se unen a la vibración floral del muguet y del jazmín con la calidez del musk.',
   },
   {
-      'id': '72',
+      'id': 'UUIDP0072',
       'title': 'Lotions',
       'name': 'Kaiak clásico masculino',
       'brand': 'Natura',
@@ -1984,7 +1984,7 @@ export const products: Product[] = [
       'description': 'La misma fragancia ahora en nuevo envase más sustentable. Camino olfativo: Aromático. Herbal, bergamota, albahaca Intensidad: Baja Una fragancia acuática. Una combinación icónica de notas aromáticas, cítricas y acuosas, que aportan una poderosa frescura. Nuevo envase hecho con más del 50% de plástico reciclado.',
   },
   {
-      'id': '73',
+      'id': 'UUIDP0073',
       'title': 'Lotions',
       'name': 'Kaiak urbe masculino',
       'brand': 'Natura',
@@ -2011,7 +2011,7 @@ export const products: Product[] = [
       'description': 'La frescura de las notas de limón y bergamota se mezclan a un fondo elegante de maderas ambaradas. El toque de especias como cardamomo y nuez moscada hacen de ella una fragancia elegante e inusitada. Camino Olfativo: Herbal, moderado, nuez moscada. A quién está dirigido: Para quienes aprecian el aire libre y la naturaleza, de espíritu joven y osado.',
   },
   {
-      'id': '74',
+      'id': 'UUIDP0074',
       'title': 'Lotions',
       'name': 'Kaiak aventura masculino',
       'brand': 'Natura',
@@ -2038,7 +2038,7 @@ export const products: Product[] = [
       'description': 'La misma fragancia ahora en nuevo envase más sustentable. Camino olfativo: Aromático. Herbal, musk, mandarina La combinación perfecta de agua, sol y bosque. Frescura cítrica y vibrante de la bergamota con notas de musk y maderas cremosas como el sándalo.',
   },
   {
-      'id': '75',
+      'id': 'UUIDP0075',
       'title': 'Lotions',
       'name': 'Kaiak aero masculino',
       'brand': 'Natura',
@@ -2065,7 +2065,7 @@ export const products: Product[] = [
       'description': 'Una fragancia aromática acuática que te sumerge en el encuentro del viento con el mar. La combinación de notas verdes y un toque salado de agua de mar se mezcla con robustas notas de madeira, creando una fragancia potente y moderna.',
   },
   {
-      'id': '76',
+      'id': 'UUIDP0076',
       'title': 'Lotions',
       'name': 'Kaiak oceano masculino',
       'brand': 'Natura',
@@ -2092,7 +2092,7 @@ export const products: Product[] = [
       'description': 'Camino olfativo: Arómatico. Herbal, algas marinas, pataqueira, complejo acuoso.',
   },
   {
-      'id': '77',
+      'id': 'UUIDP0077',
       'title': 'Lotions',
       'name': 'Kaiak ultra masculino',
       'brand': 'Natura',
@@ -2121,7 +2121,7 @@ export const products: Product[] = [
   //BARBAS
 
     {
-      'id': '78',
+      'id': 'UUIDP0078',
       'title': 'Beard',
       'name': 'Pomada immortal para barba X50ML',
       'brand': 'Deluxe',
@@ -2148,7 +2148,7 @@ export const products: Product[] = [
       'description': 'Brinda un poder de sujecion flexible al hacer que tu cabello luzca perfecto y natural',
   },
     {
-      'id': '79',
+      'id': 'UUIDP0079',
       'title': 'Beard',
       'name': 'Aceite para barba',
       'brand': 'BarberShop',
@@ -2175,7 +2175,7 @@ export const products: Product[] = [
       'description': 'El aceite multi beneficios para la barba the barbershop for men, es una Combinación de oleos de origen natural, especialmente desarrollada para nutrir las capas más profundas de la fibra capilar. Aporta propiedades emolientes a la piel, mejora el aspecto, fortalece, suaviza e hidrata, Ideal para suavizar y fortalecer la barba. Con Aceite de maracuyá.',
     },
     {
-      'id': '80',
+      'id': 'UUIDP0080',
       'title': 'Beard',
       'name': 'Aceite para Barba',
       'brand': 'BarberShop',
@@ -2202,7 +2202,7 @@ export const products: Product[] = [
       'description': 'El aceite multi beneficios para la barba the barbershop for men, es una Combinación de oleos de origen natural, especialmente desarrollada para nutrir las capas más profundas de la fibra capilar. Aporta propiedades emolientes a la piel, mejora el aspecto, fortalece, suaviza e hidrata, Ideal para suavizar y fortalecer la barba. Con Aceite de maracuyá.',
     },
     {
-      'id': '81',
+      'id': 'UUIDP0081',
       'title': 'Beard',
       'name': 'Minoxidil X30ML KARICIA',
       'brand': 'Deluxe',
@@ -2229,7 +2229,7 @@ export const products: Product[] = [
       'description': 'El tónico Minoxidil es utilizado hace más de 30 años como tratamiento contra la alopecia, crecimiento del cabello y desarrollo de barba, mostrando excelentes resultados en todos los casos. Tónico minoxidil y arándanos negros ayuda con el crecimiento de cabello, barba o vellos deseados. Contiene aloe vera y vitamina E.',
     },
     {
-      'id': '82',
+      'id': 'UUIDP0082',
       'title': 'Beard',
       'name': 'Aceite para barba',
       'brand': 'ClubMan',
@@ -2256,7 +2256,7 @@ export const products: Product[] = [
       'description': 'Proporciona un brillo natural para barba: lo que sea que te guste, el aceite para barba Clubman Pinaud dejará tu barba con un aspecto libre de encrespamiento y bajo control. Tu barba nunca estará tan hidratada y nutrida mientras se ve increíblemente arreglada sin encrespamiento y vuelos. También es una excelente opción calmante para aquellos que lidian con picazón y descamación. Está destinado a ser utilizado como una fórmula diaria que eventualmente relajará cualquier barba.',
   },
     {
-      'id': '83',
+      'id': 'UUIDP0083',
       'title': 'Beard',
       'name': 'Peinilla para Barba',
       'brand': 'BarberShop',
@@ -2284,7 +2284,7 @@ export const products: Product[] = [
       'description': 'la peinilla ayuda a lograr un cabello saludable, tiene un diseño de mango de bambú Natural que aporta una fuente de energía renovable para ayudar a proteger el planeta, gracias a su tamaño y a sus finos dientes es ideal para llevarlo a todos lados y puede ser utilizado en el cabello o en la barba ya sea húmedo o seco.',
     },
     {
-      'id': '84',
+      'id': 'UUIDP0084',
       'title': 'Talco',
       'name': 'Talco corporal ',
       'brand': 'BarberShop',
@@ -2311,7 +2311,7 @@ export const products: Product[] = [
       'description': 'Efectivo tratamiento capilar para que luzcas un Cabello hidratado y revitalizado. Contiene cera de abejas y agacate tratamiento perfecto para revitalizar cabellos débiles ó quebradizos, tratados con permanentes, alisados, cepillados y tinturados. Caída*: caída por quiebre.',
     },
     {
-      'id': '85',
+      'id': 'UUIDP0085',
       'title': 'FacialCare',
       'name': 'Protector aclarador de manchas FPS 50 ',
       'brand': 'Natura',
@@ -2339,7 +2339,7 @@ export const products: Product[] = [
       'description': 'Protección solar y acción multiaclaradora para reducir las diferencias del tono de la piel. Aclara manchas e impide su aparición. Fórmula con toque seco y rápida absorción. Cobertura natural que disimula imperfecciones y uniformiza el tono de la piel.',
   },
     {
-      'id': '86',
+      'id': 'UUIDP0086',
       'title': 'FacialCare',
       'name': 'Protector solar facial en gel FPS50',
       'brand': 'Natura',
@@ -2366,7 +2366,7 @@ export const products: Product[] = [
       'description': 'Protección solar y acción multiaclaradora para reducir las diferencias del tono de la piel. Aclara manchas e impide su aparición. Fórmula con toque seco y rápida absorción. Cobertura natural que disimula imperfecciones y uniformiza el tono de la piel.',
   },
     {
-      'id': '87',
+      'id': 'UUIDP0087',
       'title': 'FacialCare',
       'name': 'Protector solar facial en gel crema FPS50',
       'brand': 'Natura',
@@ -2393,7 +2393,7 @@ export const products: Product[] = [
       'description': 'Hidratación Intensiva. Textura ligera. Formación de película humectante. Toque seco.',
   },
     {
-      'id': '88',
+      'id': 'UUIDP0088',
       'title': 'FacialCare',
       'name': 'Protector solar facial en gel FPS30',
       'brand': 'Yambal',
@@ -2420,7 +2420,7 @@ export const products: Product[] = [
       'description': 'Protección solar y acción multiaclaradora para reducir las diferencias del tono de la piel. Aclara manchas e impide su aparición. Fórmula con toque seco y rápida absorción. Cobertura natural que disimula imperfecciones y uniformiza el tono de la piel.',
   },
     {
-      'id': '89',
+      'id': 'UUIDP0089',
       'title': 'FacialCare',
       'name': 'Total Block Protector Solar Jumbo SPF100',
       'brand': 'Yambal',
@@ -2447,7 +2447,7 @@ export const products: Product[] = [
       'description': 'Un protector solar con la fórmula perfecta, dermatológicamente probada, para estar siempre protegido de los rayos del sol.',
   },
     {
-      'id': '90',
+      'id': 'UUIDP0090',
       'title': 'FacialCare',
       'name': 'Total Block Protector Solar Kids SPF100',
       'brand': 'Yambal',
@@ -2474,7 +2474,7 @@ export const products: Product[] = [
       'description': 'Total Block Kids renovó su fórmula de SPF 70 a SPF 100 para brindar mayor protección para la delicada piel de los niños. Además, ahora protege contra el 100% de los rayos dañinos del sol con una fórmula no lágrimas y más contenido para que la diversión no termine.',
   },
     {
-      'id': '91',
+      'id': 'UUIDP0091',
       'title': 'FacialCare',
       'name': 'Total Block Protector Solar Matificante SPF100',
       'brand': 'Yambal',
@@ -2501,7 +2501,7 @@ export const products: Product[] = [
       'description': 'Un bloqueador solar matificante que además de proteger tu piel de los rayos del sol, la deja sin residuos blancos ni pegajosos. Protege tu piel con un acabado súper ligero y sin brillo!',
   },
     {
-      'id': '92',
+      'id': 'UUIDP0092',
       'title': 'FacialCare',
       'name': 'Protector Compacto Color SPF 100 Total Block Beige Claro',
       'brand': 'Yambal',
@@ -2528,7 +2528,7 @@ export const products: Product[] = [
       'description': 'Un protector solar compacto con SPF 100 y PA++++ que protege contra el 100% de los rayos dañinos del sol y la luz artificial, los cuales aceleran el envejecimiento de la piel y ocasionan radicales libres. Además, cubre imperfecciones, para lucir una piel linda y protegida.',
   },
     {
-      'id': '93',
+      'id': 'UUIDP0093',
       'title': 'Tratamiento',
       'name': 'Tratamiento Revitalizador Potao Do Amor X1000Gr',
       'brand': 'Yambal',
@@ -2556,7 +2556,7 @@ export const products: Product[] = [
       'description': 'El Tratamiento Revitalizador Potao do Amor de Skala, en su presentación de 1000 gr, es una fusión excepcional de 18 elementos poderosos diseñados para revitalizar y restaurar el brillo natural de tu cabello. Este tratamiento multifuncional no solo nutre profundamente, sino que también puede usarse como Crema de Tratamiento.',
   },
     {
-      'id': '94',
+      'id': 'UUIDP0094',
       'title': 'Tratamiento',
       'name': 'Mais Cachinos Niñas',
       'brand': 'Yambal',
@@ -2583,7 +2583,7 @@ export const products: Product[] = [
       'description': 'MaisCachinhos Kids ofrece hidratación perfecta para cabello rizado. Contiene aloe vera, D-pantenol y manteca de karité en su fórmula, sin sulfatos, parabenos, aceite mineral ni vaselina. Esta línea asegura que los pequeños tengan cabello suave y muy saludable. ',
   },
     {
-      'id': '95',
+      'id': 'UUIDP0095',
       'title': 'Tratamiento',
       'name': 'Bomba De Vitaminas S.O.S X1000GR',
       'brand': 'Yambal',
@@ -2611,7 +2611,7 @@ export const products: Product[] = [
       'description': 'Ayuda en el crecimiento. Tiene una fórmula con ingredientes de gran alcance ricos en nutrientes que ayudan en el crecimiento del cabello. Prepárese para los cumplidos, se recomienda que utilice y el abuso de esta línea! Ideal para todo tipo de cabello. 100% Vegano.',
   },
     {
-      'id': '96',
+      'id': 'UUIDP0096',
       'title': 'Tratamiento',
       'name': 'Coquetel de frutas',
       'brand': 'Skala',
@@ -2638,7 +2638,7 @@ export const products: Product[] = [
       'description': 'Hidratación Nostálgica | Liberado. Sin Sulfatos, Parabenos, Petrolato, Siliconas y Aceite Mineral. Ananás: rico en Vitaminas A, B y C. Suaviza e hidrata el cabello resecado. Agua de coco: Nutrientes poderosos que ofrecen suavidad a el cabello. Mora: Posee propriedades que ayudan a fortalecer el cabello seco y opaco.',
   },
     {
-      'id': '97',
+      'id': 'UUIDP0097',
       'title': 'Tratamiento',
       'name': 'Tratamiento Divino Potinho Kids X1000Gr',
       'brand': 'Yambal',
@@ -2665,7 +2665,7 @@ export const products: Product[] = [
       'description': 'El Tratamiento Skala Kids Divino Potão es una solución mágica ✨ diseñada específicamente para los más pequeños de la casa. Este producto no solo hace más fácil la rutina de cuidado del cabello, sino que también asegura un tratamiento amoroso y adecuado para los delicados rizos y crespos.',
   },
     {
-      'id': '98',
+      'id': 'UUIDP0098',
       'title': 'Tratamiento',
       'name': 'Tratamiento Mais Lisos X1000GR',
       'brand': 'Yambal',
@@ -2692,7 +2692,7 @@ export const products: Product[] = [
       'description': 'El Tratamiento Mais Lisos x 1000 gr de Skala es una solución integral para el cuidado del cabello, proporcionando una hidratación profunda y protección desde la raíz hasta las puntas. Este producto, presentado en un práctico envase de 1000 gr, está enriquecido con vitamina E y otros nutrientes esenciales.',
   },
     {
-      'id': '99',
+      'id': 'UUIDP0099',
       'title': 'Waxes',
       'name': 'Cera con Minoxidil X150GR',
       'brand': 'Barbershop',
@@ -2719,7 +2719,7 @@ export const products: Product[] = [
       'description': 'El Tratamiento Mais Lisos x 1000 gr de Skala es una solución integral para el cuidado del cabello, proporcionando una hidratación profunda y protección desde la raíz hasta las puntas. Este producto, presentado en un práctico envase de 1000 gr, está enriquecido con vitamina E y otros nutrientes esenciales.',
   },
     {
-      'id': '100',
+      'id': 'UUIDP0100',
       'title': 'Waxes',
       'name': 'Cera opalina The BarberShop X190GR',
       'brand': 'Barbershop',
@@ -2747,7 +2747,7 @@ export const products: Product[] = [
       'description': 'La cera moldeadora y fijadora opalina the barbershop x 190g, es ideal para prevenir la caída del cabello gracias a los extractos de ginseng que fortalecen los folículos capilares y el aceite de oliva brinda una hidratación profunda sin dejar sensación grasa. define, moldea y texturiza, tiene una excelente fijación. Recomendada para motociclistas ya que al quitar el casco permite retocar el peinado humedeciendo un poco la mano y moldeando nuevamente el cabello. Ayuda a tener un peinado definido, libre de frizz, con Extracto de ginseng, aceite de oliva hidrogenado, filtro uv, silicona y pantenol. Libre de Parabenos.',
   },
     {
-      'id': '101',
+      'id': 'UUIDP0101',
       'title': 'Waxes',
       'name': 'Cera opalina The BarberShop X120GR',
       'brand': 'Barbershop',
@@ -2774,7 +2774,7 @@ export const products: Product[] = [
       'description': 'la cera moldeadora y fijadora the barbershop nitro wax x120g es ideal para todo tipo de cabello, esta enriquecida con extractos naturales como el D-pantenol, keratina, aceite de coco, que con su contenido de ácidos grasos le da engrosamiento a la fibra capilar, La cera nitro wax tiene una excelente fijación, no reseca el cuero cabelludo, está libre de alcohol y parabenos. Otorga fijación y definición a tu peinado..',
   },
     {
-      'id': '102',
+      'id': 'UUIDP0102',
       'title': 'Waxes',
       'name': 'Cera Vibrawax',
       'brand': 'Barbershop',
@@ -2801,7 +2801,7 @@ export const products: Product[] = [
       'description': 'la cera moldeadora y fijadora Barber up vibra wax x480 g es ideal para todo tipo de cabello, esta enriquecida con extractos naturales como el D-pantenol, keratina, aceite de coco, que con su contenido de ácidos grasos le da engrosamiento a la fibra capilar. La cera vibra wax tiene una excelente fijación, no reseca el cuero cabelludo, está libre parabenos. Otorga fijación y definición a tu peinado.',
   },
     {
-      'id': '103',
+      'id': 'UUIDP0103',
       'title': 'Cosmetics',
       'name': 'Aceite de almendras',
       'brand': 'Kanechom',
@@ -2828,7 +2828,7 @@ export const products: Product[] = [
       'description': 'El aceite de almendras Kanechom es versátil, se puede utilizar para hidratar y proteger la piel o para potenciar la hidratación del cabello. Rica en vitaminas, favorece la suavidad, la tersura y el perfume.',
   },
     {
-      'id': '104',
+      'id': 'UUIDP0104',
       'title': 'Cosmetics',
       'name': 'Aceite de argan',
       'brand': 'Kanechom',
@@ -2855,7 +2855,7 @@ export const products: Product[] = [
       'description': 'El aceite de argán Kanechom es conocido como el oro de Marruecos debido a su poder extremadamente hidratante. Permite que la piel absorba los nutrientes, dejándola suave y protegida.',
   },
     {
-      'id': '105',
+      'id': 'UUIDP0105',
       'title': 'Cosmetics',
       'name': 'Aceite de coco',
       'brand': 'Kanechom',
@@ -2882,7 +2882,7 @@ export const products: Product[] = [
       'description': 'Los Aceites Imperiales Kanechom con Coco son una combinación extraordinaria de aceites preciosos obtenidos de semillas, hierbas y frutas. Promueve la nutrición, repone la lubricidad esencial para la suavidad y vitalidad. Se puede utilizar para hidratar y proteger la piel o para potenciar la hidratación del cabello.',
   },
     {
-      'id': '106',
+      'id': 'UUIDP0106',
       'title': 'FacialCare',
       'name': 'Suero facial X30ML',
       'brand': 'Bosley',
@@ -2909,7 +2909,7 @@ export const products: Product[] = [
       'description': 'Ayuda a retener y mantener la humedad de la piel. Contiene componentes que promueven suavidad. además, cuenta con filtro UV y extracto de semilla de una que ayudan a disminuir los efectos perjudiciales de los radicales libres. producto libre de parabenos.',
   },
     {
-      'id': '107',
+      'id': 'UUIDP0107',
       'title': 'Cosmetics',
       'name': 'STICK Capilar anti frizz X70Gr',
       'brand': 'Bosley',
@@ -2936,7 +2936,7 @@ export const products: Product[] = [
       'description': 'El stick capilar anti frizz Bosley en barra es un innovador producto diseñado para controlar y reducir el frizz que estén en el cabello de manera rápida y efectiva. Con su práctico formato en barra, este producto se aplica directamente sobre el cabello, proporcionando una aplicación precisa y sin complicaciones, no deja residuos ni sensación grasosa. Su fórmula especial está enriquecida con ingredientes hidratantes y acondicionadores que ayudan a suavizar la cutícula del cabello, proporcionando un aspecto más liso y pulido ayudando a mantener el peinado intacto durante más tiempo, incluso en ambientes húmedos.',
   },
     {
-      'id': '108',
+      'id': 'UUIDP0108',
       'title': 'Cosmetics',
       'name': 'Polvo Compacto Bosley',
       'brand': 'Bosley',
@@ -2963,9 +2963,9 @@ export const products: Product[] = [
       'description': 'Polvo compacto mixto Bosley x unidad, está hecho a base de polvo de arroz, que deja tu piel suave con sensación de terciopelo, gracias a los componentes como la vitamina E que ayuda a cubrir uniformemente las imperfecciones y filtro solar que protege la piel de los efectos nocivos de los rayos solares. El polvo compacto bosley ayuda a sellar el maquillaje y dejarlo más uniforme, mitifica la piel y controla la grasa para brindar un acabado mate muy natural.',
   },
     {
-      'id': '109',
+      'id': 'UUIDP0109',
       'title': 'FacialCare',
-      'name': 'Anew Solar Triple Protección Loción Facial Mate FPS50 - 50ml',
+      'name': 'Anew Solar Triple Protección Mate FPS50 50ml',
       'brand': 'Avon',
       'price': 43000,
       'oldPrice': 47000,
@@ -2990,9 +2990,9 @@ export const products: Product[] = [
       'description': 'Proteccón solar antiedad FPS 50 contiene ácido hialurónico. Con propiedades antioxidantes y anti-edad que ayudan a detener la pérdida de colágeno en la piel.',
   },
     {
-      'id': '110',
+      'id': 'UUIDP0110',
       'title': 'FacialCare',
-      'name': 'Anew Solar Triple Protección Loción Facial Mate Con Color FPS50 - 50ml',
+      'name': 'Anew Solar Triple Protección Con Color FPS50 50ml',
       'brand': 'Avon',
       'price': 43000,
       'oldPrice': 47000,
@@ -3017,9 +3017,9 @@ export const products: Product[] = [
       'description': 'Proteccón solar antiedad FPS 50 contiene protinol. Ayuda a impulsar la producción de colágeno, para una piel más firme y con menos líneas finas de expresión. Aspecto y tacto mate durante 12 horas.',
   },
     {
-      'id': '111',
+      'id': 'UUIDP0111',
       'title': 'FacialCare',
-      'name': 'Anew Solar Triple Protección Loción Facial Mate FPS70 - 50ml',
+      'name': 'Anew Solar Triple Protección Mate FPS70 50ml',
       'brand': 'Avon',
       'price': 46000,
       'oldPrice': 52000,
