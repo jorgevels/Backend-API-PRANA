@@ -3585,7 +3585,7 @@ export const products: Product[] = [
       'description': 'Crea una atmósfera de romance y deseo con la Vela Aromática x3 Unidades Sen Intimo. Estas velas están impregnadas con delicadas feromonas que llenan tu espacio con sensuales aromas, convirtiendo cualquier ambiente en el escenario perfecto para encuentros inolvidables.',
   },
   {
-      'id': 'UUIDP0132',
+      'id': 'UUIDP0133',
       'title': 'Intimos',
       'name': 'Lubricante Intimo Anal Electrizante',
       'brand': 'Sen Intimo',
@@ -3612,7 +3612,7 @@ export const products: Product[] = [
       'description': 'Sumérgete en un mundo de placer y confort con nuestro innovador Lubricante Anal Electrizante sin anestésico. Diseñado para transformar tus experiencias íntimas, este lubricante redefine la forma en que disfrutas de la penetración anal, garantizando una relajación óptima, lubricación excepcional y una excitante sensación electrizante.',
   },
   {
-      'id': 'UUIDP0133',
+      'id': 'UUIDP0134',
       'title': 'Intimos',
       'name': 'Electrizante Mango Sen Intimo X30ml',
       'brand': 'Sen Intimo',
@@ -3639,7 +3639,7 @@ export const products: Product[] = [
       'description': 'Lubricante de Mango sensación caliente Electrizante /Edición especial. Que exótico y erótico se pone el sexo cuando se incluyen nuevos sabores y sensaciones ¿O no?  Nuestro Lubricante caliente electrizante con sabor a mango, potenciará el placer de tus relaciones de forma natural y con un toque tropical. Perfecto para usar en pareja y hacer del sexo oral toda una experiencia inigualable. Tiene un efecto de larga duración y no es graso, por lo que su utilización te resultará muy cómoda.',
   },
   {
-      'id': 'UUIDP0133',
+      'id': 'UUIDP0135',
       'title': 'Intimos',
       'name': 'Anillo Vibrador Sen Intimo',
       'brand': 'Sen Intimo',
@@ -3666,7 +3666,7 @@ export const products: Product[] = [
       'description': 'Anillo vibrador que le dará máximo placer a tí a tu pareja. Ponlo en la base del pene, sentirás una delicada presión que mantendrá tu erección durante más tiempo y tendrás más control en el momento de eyacular. Su poderosa bala vibradora puede ser usada de dos maneras:  Si apunta para abajo, estimula de una forma increíble los testículos.  Si apunta para arriba, estimulará el clítoris, llevándola al éxtasis en el momento de la penetración.',
   },
   {
-      'id': 'UUIDP0134',
+      'id': 'UUIDP0136',
       'title': 'Intimos',
       'name': 'Bala Vibradora Sen',
       'brand': 'Sen Intimo',
@@ -3693,7 +3693,7 @@ export const products: Product[] = [
       'description': 'Si buscas un vibrador discreto y portátil que cumpla todas tus fantasías, la Bala Vibradora Sen es tu compañero ideal. Un producto que ha conquistado a miles de mujeres en todo el mundo. Este vibrador compacto es perfecto tanto para juegos en pareja como para disfrutar en solitario. Su diseño discreto te permite llevarlo en el bolsillo para tenerlo siempre a mano cuando surja la ocasión. Con dimensiones ideales (7cm de largo, 2cm de diámetro), es fácil de manejar y transportar.',
   },
   {
-      'id': 'UUIDP0135',
+      'id': 'UUIDP0137',
       'title': 'Intimos',
       'name': 'Burbuja De Amor X60Ml ',
       'brand': 'Sen Intimo',
@@ -3720,7 +3720,7 @@ export const products: Product[] = [
       'description': 'Transforma tu rutina de baño en un momento especial con Burbuja de Amor x60 ml de Sen Intimo. Esta espuma de baño te ofrece la combinación perfecta de suavidad y frescura para una experiencia relajante. Para disfrutar de un baño burbujeante, tapona la salida del agua, agrega la cantidad deseada de Burbuja de Amor y llena la bañera. A mayor presión del agua, ¡más burbujas obtendrás!',
   },
   {
-      'id': 'UUIDP0136',
+      'id': 'UUIDP0138',
       'title': 'Intimos',
       'name': 'Lubricante Trio Placer X75Ml',
       'brand': 'Sen Intimo',
