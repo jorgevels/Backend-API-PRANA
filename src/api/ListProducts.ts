@@ -3344,7 +3344,7 @@ export const products: Product[] = [
   {
       'id': 'UUIDP0124',
       'title': 'Intimos',
-      'name': 'Multiorgasmos Electrizante X5Ml',
+      'name': 'Multiorgasmos Electrizante X5ML',
       'brand': 'Sen Intimo',
       'price': 37000,
       'oldPrice': 40000,
@@ -3371,6 +3371,34 @@ export const products: Product[] = [
   {
       'id': 'UUIDP0125',
       'title': 'Intimos',
+      'name': 'Multiorgasmo Lubricante X10ML',
+      'brand': 'Sen Intimo',
+      'price': 22000,
+      'oldPrice': 25000,
+      'best': true,
+      'featured': true,
+      'time': 'Nuevo',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1717176373/MetaStore/LUBRICANTE-CORAZON1_tuvocz.png',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1717176384/MetaStore/LUBRICANTE-CORAZON2_u3muuy.jpg',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1717176384/MetaStore/LUBRICANTE-CORAZON3_oj0h0h.jpg',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1717176384/MetaStore/LUBRICANTE-CORAZON4_lk2azd.jpg',
+        },
+      ],
+      'stars': 5,
+      'description': 'Lubricante multiorgasmos a base de agua. Alcanza el clímax con este gel multiorgásmico que te dará sensaciones de frío a calor y estimulará tus zonas erógenas, facilitando la llegada al orgasmo de una manera indescriptible.Aplícalo con masajes circulares en el clítoris y disfruta.',
+  },
+  {
+      'id': 'UUIDP0126',
+      'title': 'Intimos',
       'name': 'Multiorgasmos X30ML',
       'brand': 'Sen Intimo',
       'price': 35000,
@@ -3396,7 +3424,7 @@ export const products: Product[] = [
       'description': '¡Descubre el placer como nunca antes con nuestro Lubricante Íntimo Multiorgasmos Sen Intimo! Diseñado para activar tu zona de mayor placer, este lubricante te invita a explorar y estimular tus puntos más sensibles. Mejora el flujo sanguíneo en tu zona íntima, intensifica la sensibilidad y facilita la experiencia hacia el orgasmo.',
   },
   {
-      'id': 'UUIDP0126',
+      'id': 'UUIDP0127',
       'title': 'Intimos',
       'name': 'Estrechante Sen Intimo X30ML',
       'brand': 'Sen Intimo',
@@ -3404,6 +3432,7 @@ export const products: Product[] = [
       'oldPrice': 38500,
       'best': true,
       'featured': true,
+      'time': 'Nuevo',
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1715972432/MetaStore/Estrechante_fberz1.jpg',
       'gallarey': [
         {
@@ -3423,7 +3452,7 @@ export const products: Product[] = [
       'description': 'Estrechante - Rejuvenecedor vaginal. Descubre el rejuvenecedor de Sen Intimo está diseñado para brindarte una experiencia íntima más estimulante y placentera. Nuestra fórmula única proporciona una sensación de contracción en el conducto vaginal, permitiéndote y a tu pareja disfrutar de un contacto más íntimo durante la penetración.',
   },
   {
-      'id': 'UUIDP0127',
+      'id': 'UUIDP0128',
       'title': 'Intimos',
       'name': 'Perfume pheromonas para mujer',
       'brand': 'Sen Intimo',
@@ -3450,14 +3479,15 @@ export const products: Product[] = [
       'description': '¡Conquista al que quieras! totalmente sin olor y concentradas, perfectas para combinarlas con tu loción preferida. Aplica 10 gotas de feromonas concentradas en tu loción favorita y vuélvete totalmente irresistible para el sexo opuesto. Las feromonas son sustancias químicas naturales segregadas por el cuerpo a través de la transpiración (sudor), cuyo olor se desprende encargándose de atraer al que deseemos. Este producto sin olor se acciona por el calor de tu propio cuerpo, incrementando la secreción normal de feromonas, haciéndote más irresistible.',
   },
   {
-      'id': 'UUIDP0128',
+      'id': 'UUIDP0129',
       'title': 'Intimos',
       'name': 'Lubricante Garganta Profunda  X15ml',
       'brand': 'Sen Intimo',
       'price': 35000,
       'oldPrice': 38500,
       'best': true,
-      'featured': true,
+     'featured': true,
+      'time': 'Nuevo',
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1715972730/MetaStore/Garganta_z1kelg.png',
       'gallarey': [
         {
@@ -3477,7 +3507,7 @@ export const products: Product[] = [
       'description': 'Experimenta un placer oral más profundo con el Lubricante Garganta Profunda Desensibilizante x15ml de Sen. Diseñado para brindar una experiencia sexual placentera y cómoda durante el sexo oral, nuestro spray desensibilizante adormece ligeramente la parte posterior de la garganta y suprime el reflejo nauseoso.',
   },
   {
-      'id': 'UUIDP0129',
+      'id': 'UUIDP0130',
       'title': 'Intimos',
       'name': 'Lubricante Electrizante Caliente Lychee',
       'brand': 'Sen Intimo',
@@ -3504,7 +3534,7 @@ export const products: Product[] = [
       'description': 'Lubricante de Lychee sensación caliente Electrizante Edición especial. Qué tal una tarde de playa y cóctel en mano ¿Te suena rico? Con nuestro Lubricante con sabor a Lychee y sensación caliente Electrizante, potenciarás el placer de tus relaciones íntimas y además con un toque especial: el sabor que más te gusta y una sensación de cosquilleo inolvidable. Perfecto para usar en pareja y hacer del sexo oral toda una experiencia inigualable. Tiene un efecto de larga duración y no es graso, por lo que su utilización te resultará muy cómoda.',
   },
   {
-      'id': 'UUIDP0130',
+      'id': 'UUIDP0131',
       'title': 'Intimos',
       'name': 'Lubricante Caliente Crema De Whisky',
       'brand': 'Sen Intimo',
@@ -3531,7 +3561,7 @@ export const products: Product[] = [
       'description': 'Sumérgete en el placer sofisticado con nuestro Lubricante Crema de Whisky de 30ml Sen Intimo. Diseñado para hacer tus momentos íntimos más emocionantes, este lubricante ofrece un sabor exquisito y un placer duradero.',
   },
   {
-      'id': 'UUIDP0131',
+      'id': 'UUIDP0132',
       'title': 'Intimos',
       'name': 'Vela Para Masajes X25 Ml',
       'brand': 'Sen Intimo',
@@ -3558,7 +3588,7 @@ export const products: Product[] = [
       'description': 'Imagina un momento íntimo envuelto en la suave luz de nuestra cautivadora vela, donde la fragancia de Fresa Salvaje despierta tus sentidos. Esta vela va más allá: al derretirse, se transforma en un exquisito aceite para masajes, creando un ambiente perfecto para la conexión y el deseo.',
   },
   {
-      'id': 'UUIDP0132',
+      'id': 'UUIDP0133',
       'title': 'Intimos',
       'name': 'Vela Aromática X3 Unidades',
       'brand': 'Sen Intimo',
@@ -3585,7 +3615,7 @@ export const products: Product[] = [
       'description': 'Crea una atmósfera de romance y deseo con la Vela Aromática x3 Unidades Sen Intimo. Estas velas están impregnadas con delicadas feromonas que llenan tu espacio con sensuales aromas, convirtiendo cualquier ambiente en el escenario perfecto para encuentros inolvidables.',
   },
   {
-      'id': 'UUIDP0133',
+      'id': 'UUIDP0134',
       'title': 'Intimos',
       'name': 'Lubricante Intimo Anal Electrizante',
       'brand': 'Sen Intimo',
@@ -3612,7 +3642,7 @@ export const products: Product[] = [
       'description': 'Sumérgete en un mundo de placer y confort con nuestro innovador Lubricante Anal Electrizante sin anestésico. Diseñado para transformar tus experiencias íntimas, este lubricante redefine la forma en que disfrutas de la penetración anal, garantizando una relajación óptima, lubricación excepcional y una excitante sensación electrizante.',
   },
   {
-      'id': 'UUIDP0134',
+      'id': 'UUIDP0135',
       'title': 'Intimos',
       'name': 'Electrizante Mango Sen Intimo X30ml',
       'brand': 'Sen Intimo',
@@ -3620,6 +3650,7 @@ export const products: Product[] = [
       'oldPrice': 41000,
       'best': true,
       'featured': true,
+      'time': 'Nuevo',
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1716573406/MetaStore/Mango1_lxpxgi.png',
       'gallarey': [
         {
@@ -3639,7 +3670,7 @@ export const products: Product[] = [
       'description': 'Lubricante de Mango sensación caliente Electrizante /Edición especial. Que exótico y erótico se pone el sexo cuando se incluyen nuevos sabores y sensaciones ¿O no?  Nuestro Lubricante caliente electrizante con sabor a mango, potenciará el placer de tus relaciones de forma natural y con un toque tropical. Perfecto para usar en pareja y hacer del sexo oral toda una experiencia inigualable. Tiene un efecto de larga duración y no es graso, por lo que su utilización te resultará muy cómoda.',
   },
   {
-      'id': 'UUIDP0135',
+      'id': 'UUIDP0136',
       'title': 'Intimos',
       'name': 'Anillo Vibrador Sen Intimo',
       'brand': 'Sen Intimo',
@@ -3666,7 +3697,7 @@ export const products: Product[] = [
       'description': 'Anillo vibrador que le dará máximo placer a tí a tu pareja. Ponlo en la base del pene, sentirás una delicada presión que mantendrá tu erección durante más tiempo y tendrás más control en el momento de eyacular. Su poderosa bala vibradora puede ser usada de dos maneras:  Si apunta para abajo, estimula de una forma increíble los testículos.  Si apunta para arriba, estimulará el clítoris, llevándola al éxtasis en el momento de la penetración.',
   },
   {
-      'id': 'UUIDP0136',
+      'id': 'UUIDP0137',
       'title': 'Intimos',
       'name': 'Bala Vibradora Sen',
       'brand': 'Sen Intimo',
@@ -3693,7 +3724,7 @@ export const products: Product[] = [
       'description': 'Si buscas un vibrador discreto y portátil que cumpla todas tus fantasías, la Bala Vibradora Sen es tu compañero ideal. Un producto que ha conquistado a miles de mujeres en todo el mundo. Este vibrador compacto es perfecto tanto para juegos en pareja como para disfrutar en solitario. Su diseño discreto te permite llevarlo en el bolsillo para tenerlo siempre a mano cuando surja la ocasión. Con dimensiones ideales (7cm de largo, 2cm de diámetro), es fácil de manejar y transportar.',
   },
   {
-      'id': 'UUIDP0137',
+      'id': 'UUIDP0138',
       'title': 'Intimos',
       'name': 'Burbuja De Amor X60Ml ',
       'brand': 'Sen Intimo',
@@ -3720,7 +3751,7 @@ export const products: Product[] = [
       'description': 'Transforma tu rutina de baño en un momento especial con Burbuja de Amor x60 ml de Sen Intimo. Esta espuma de baño te ofrece la combinación perfecta de suavidad y frescura para una experiencia relajante. Para disfrutar de un baño burbujeante, tapona la salida del agua, agrega la cantidad deseada de Burbuja de Amor y llena la bañera. A mayor presión del agua, ¡más burbujas obtendrás!',
   },
   {
-      'id': 'UUIDP0138',
+      'id': 'UUIDP0139',
       'title': 'Intimos',
       'name': 'Lubricante Trio Placer X75Ml',
       'brand': 'Sen Intimo',
@@ -3728,6 +3759,7 @@ export const products: Product[] = [
       'oldPrice': 42000,
       'best': true,
       'featured': true,
+      'time': 'Nuevo',
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1716578344/MetaStore/Trio1_iw3dlc.png',
       'gallarey': [
         {
@@ -3747,7 +3779,7 @@ export const products: Product[] = [
       'description': 'Experimenta una sensación completa de placer con el Lubricante Trio Placer x75ml Sen Intimo. Este lubricante íntimo no solo proporciona una sensación cálida y placentera, sino que también ofrece un aroma seductor y un delicioso sabor, perfecto para intensificar el sexo oral.',
   },
   {
-      'id': 'UUIDP0139',
+      'id': 'UUIDP0140',
       'title': 'Intimos',
       'name': 'Lubricante Menta X30 Ml',
       'brand': 'Sen Intimo',
@@ -3774,7 +3806,7 @@ export const products: Product[] = [
       'description': 'Descubre el placer de un clásico que nunca falla con nuestro lubricante íntimo de menta. Diseñado para elevar tus momentos íntimos, este lubricante de sabor a menta ofrece una frescura irresistible, creando una sensación única y estimulante. Formulado cuidadosamente a base de agua, nuestro lubricante es suave y delicado con tu piel, proporcionando una lubricación agradable y duradera. Su textura sedosa lo convierte en la elección perfecta para intensificar la conexión íntima, ya sea aplicado directamente en el área deseada o sobre preservativos.',
   },
   {
-      'id': 'UUIDP0140',
+      'id': 'UUIDP0141',
       'title': 'Intimos',
       'name': 'Retardante Ejaculation Delay',
       'brand': 'Sen Intimo',
@@ -3782,6 +3814,7 @@ export const products: Product[] = [
       'oldPrice': 39500,
       'best': true,
       'featured': true,
+      'time': 'Nuevo',
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1716582758/MetaStore/Retardante1_pqbqoy.jpg',
       'gallarey': [
         {
@@ -3801,7 +3834,7 @@ export const products: Product[] = [
       'description': 'Experimenta un placer sexual prolongado con el Retardante Ejaculation Delay. Nuestra fórmula de máxima potencia está diseñada para ayudarte a controlar tu rendimiento en la intimidad. Modo de uso: Aplica de 2 a 3 push desde la base del pene hasta la cabeza, 10 minutos antes de la penetración. Deja que la fórmula actúe para disfrutar de una experiencia más duradera y satisfactoria.',
   },
   {
-      'id': 'UUIDP0141',
+      'id': 'UUIDP0142',
       'title': 'Intimos',
       'name': 'Lubricante Neutro',
       'brand': 'Sen Intimo',
@@ -3828,7 +3861,7 @@ export const products: Product[] = [
       'description': 'Descubre una nueva dimensión de confort y conexión con nuestro lubricante Neutro a base de agua. Diseñado para ofrecerte la máxima compatibilidad con preservativos y juguetes, este lubricante neutro es tu defensa contra la incomodidad y la sequedad vaginal durante el acto sexual. Es el compañero ideal para mujeres en todas las etapas de la vida, desde el embarazo hasta la menopausia.',
   },
   {
-      'id': 'UUIDP0142',
+      'id': 'UUIDP0143',
       'title': 'Intimos',
       'name': 'Lubricante Electrizante Tequila X30 ml',
       'brand': 'Sen Intimo',
@@ -3836,6 +3869,7 @@ export const products: Product[] = [
       'oldPrice': 39000,
       'best': true,
       'featured': true,
+      'time': 'Nuevo',
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1716583271/MetaStore/Tequila1_ww01af.png',
       'gallarey': [
         {
@@ -3855,7 +3889,7 @@ export const products: Product[] = [
       'description': '¡Toda una delicia sensorial!, El sabor, la picardía y la sensualidad de México en un lubricante que llega para sacarte de la monotonía.  Aumenta tu sensibilidad intensificando tus sensaciones con nuestro exquisito y provocativo Lubricante íntimo con sabor a tequila y sus sensación caliente y Electrizante. Perfecto para usar en pareja y hacer del sexo oral toda una experiencia inigualable. Tiene un efecto de larga duración y no es graso, por lo que su utilización te resultará muy cómoda.',
   },
   {
-      'id': 'UUIDP0143',
+      'id': 'UUIDP0144',
       'title': 'Intimos',
       'name': 'Lubricante Caliente Chocolate',
       'brand': 'Sen Intimo',
@@ -3882,7 +3916,7 @@ export const products: Product[] = [
       'description': 'Sumérgete en el placer con nuestro Lubricante Caliente Chocolate Sen Intimo. Diseñado para hacer tu vida íntima más divertida y apasionada, este lubricante te envuelve en un calor emocionante y te deleita con un sabor irresistible a chocolate. Experimenta sensaciones intensas al aplicar este lubricante, diseñado para intensificar el placer en cada encuentro íntimo. Disfruta de una experiencia prolongada y lleva contigo este secreto de placer a donde quiera que vayas.',
   },
   {
-      'id': 'UUIDP0144',
+      'id': 'UUIDP0145',
       'title': 'Intimos',
       'name': 'Aceite Básico Para Masajes X30 Ml',
       'brand': 'Sen Intimo',
@@ -3909,7 +3943,7 @@ export const products: Product[] = [
       'description': 'Sumérgete en una experiencia de placer sensorial con Aceite para Masajes Sen Intimo x30 ml. Este aceite de masaje, con fragancia afrodisíaca a cereza, te invita a disfrutar de momentos sensuales y de aromaterapia. Con base acuosa y soluble en agua, este aceite no mancha ni deja residuos, proporcionando un masaje suave y placentero. Seguro con preservativos, es fácil de aplicar y no requiere jabón.',
   },
   {
-      'id': 'UUIDP0145',
+      'id': 'UUIDP0146',
       'title': 'Intimos',
       'name': 'Aceite Euforia X30 Ml',
       'brand': 'Sen Intimo',
@@ -3936,7 +3970,7 @@ export const products: Product[] = [
       'description': 'Sumérgete en un oasis de relajación y placer con Aceite Euforia x30 ml. Diseñado para momentos íntimos, este aceite para masajes combina extractos de cannabis con una cuidada mezcla de aceites naturales. Disfruta de la sensualidad y el calor que proporciona este aceite, perfecto para masajes que relajan los músculos y despiertan los sentidos. La fórmula única incluye aceites de almendras, argán, jojoba, naranja, sacha inchi, cáñamo, manteca de karité, vitamina E y ácido láctico.',
   },
   {
-      'id': 'UUIDP0146',
+      'id': 'UUIDP0147',
       'title': 'Intimos',
       'name': 'Aceite para Masajes y Aromaterapia',
       'brand': 'Sen Intimo',
