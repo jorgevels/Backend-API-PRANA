@@ -3996,6 +3996,62 @@ export const products: Product[] = [
       'stars': 5,
       'description': 'Embárcate en un viaje de relajación y sensualidad con Aceite para Masajes y Aromaterapia x250 ml. Su delicioso aroma y textura sedosa lo convierten en el complemento perfecto para momentos íntimos y de conexión. Con aceites esenciales seleccionados, este aceite para masajes corporales ofrece una sensación única en cada gota. Aplica suavemente sobre la piel, permitiendo que tus sentidos se sumerjan en un oasis de placer.',
   },
+  {
+      'id': 'UUIDP0148',
+      'title': 'FacialCare',
+      'name': 'Suero Facial MEN X60ML',
+      'brand': 'BARBERSHOP',
+      'price': 24000,
+      'oldPrice': 27000,
+      'best': true,
+      'featured': true,
+      'time': 'Nuevo',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1717608234/MetaStore/SUERO-OIL_QGhPulw_snrfk5.jpg',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1717608234/MetaStore/SUERO-OIL2_uMrl58L_abokuc.jpg',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1717608234/MetaStore/SUERO-OIL3_0WCJQ03_fezjhf.jpg',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1717608234/MetaStore/SUERO-OIL4_IJbEMTD_zvkdu9.jpg',
+        },
+      ],
+      'stars': 5,
+      'description': 'El Suero facial the barbershop for men x 60ml ayuda a retener y mantener la humedad de la piel. Gracias a sus componentes como el colágeno y el aloe vera generan suavidad y su uso diario ayuda a prevenir y mejorar la apariencia de las líneas finas de expresión, además cuenta con filtro UV y extracto de semilla de uva que ayudan a disminuir los efectos perjudiciales de los radicales libres. El suero the barbershop también es ideal para hombres con barba ya que aporta hidratación y suavidad al vello facial sin dejar sensación grasosa Producto libre de parabenos..',
+  },
+  {
+      'id': 'UUIDP0149',
+      'title': 'FacialCare',
+      'name': 'Exfoliante Facial X250ML',
+      'brand': 'BARBERSHOP',
+      'price': 24000,
+      'oldPrice': 27000,
+      'best': true,
+      'featured': true,
+      'time': 'Nuevo',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1717608921/MetaStore/EXFOLIANTE-FACIAL1_BrmGoVg_k60hwq.jpg',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1717608921/MetaStore/EXFOLIANTE-FACIAL4_MPw7zfd_yiliba.jpg',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1717608921/MetaStore/EXFOLIANTE-FACIAL3_ysQ7iMy_crx7uj.jpg',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1717608921/MetaStore/EXFOLIANTE-FACIAL2_o2q5jFW_yadupm.jpg',
+        },
+      ],
+      'stars': 5,
+      'description': 'El exfoliante facial the barbershop for men x 250g es ideal para realizar limpieza facial ya que Elimina las células muertas e impurezas de la piel, dejándola renovada, suave y fresca. El exfoliante the barbershop está diseñado especialmente para el cuidado masculino ya que Contiene ingredientes activos como el colágeno y la vitamina E y semillas de albaricoque, que lo hace muy suave con la piel, es ideal para el cuidado de la piel se recomienda realizar exfoliación mínimo 1 vez por semana para evitar la aparición de imperfecciones como barros y espinillas.',
+  },
   // Otros productos...
 ];
 
