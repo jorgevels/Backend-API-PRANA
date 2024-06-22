@@ -13,6 +13,7 @@ export type Product = {
   featured: boolean;
   recommended?: boolean; 
   time?: string; 
+  stock?: string;
   image: string;
   gallarey: { sku: string; url: string; }[];
   stars: number;
@@ -1857,6 +1858,7 @@ export const products: Product[] = [
       'oldPrice': 125000,
       'best': false,
       'featured': false,
+      'stock': 'Fuera de Stock',
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1712182631/MetaStore/Kaiak-vital_jfbobe.png',
       'gallarey': [
         {
@@ -3349,7 +3351,8 @@ export const products: Product[] = [
       'price': 39000,
       'oldPrice': 41000,
       'best': true,
-      'featured': true,
+    'featured': true,
+      'stock': 'Fuera de Stock',
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1715967666/MetaStore/intimo1_yv98sk.png',
       'gallarey': [
         {
@@ -3460,6 +3463,7 @@ export const products: Product[] = [
       'oldPrice': 49000,
       'best': true,
       'featured': true,
+      'stock': 'Fuera de Stock',
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1715972198/MetaStore/Feromonas_zg0hhu.jpg',
       'gallarey': [
         {
@@ -3515,6 +3519,7 @@ export const products: Product[] = [
       'oldPrice': 33500,
       'best': true,
       'featured': true,
+      'stock': 'Fuera de Stock',
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1715974917/MetaStore/LubricanteLiche1_cqwnlk.png',
       'gallarey': [
         {
@@ -3569,6 +3574,7 @@ export const products: Product[] = [
       'oldPrice': 33500,
       'best': true,
       'featured': true,
+      'stock': 'Fuera de Stock',
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1715975729/MetaStore/VelaMasajes4_zk7edk.png',
       'gallarey': [
         {
@@ -3596,6 +3602,7 @@ export const products: Product[] = [
       'oldPrice': 15000,
       'best': true,
       'featured': true,
+      'stock': 'Fuera de Stock',
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1715976265/MetaStore/4a9cba605e1831bdb88dc87b58fb0fd0f5da14c6_zqqgsx.png',
       'gallarey': [
         {
@@ -3678,6 +3685,7 @@ export const products: Product[] = [
       'oldPrice': 28500,
       'best': true,
       'featured': true,
+      'stock': 'Fuera de Stock',
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1716573721/MetaStore/Anillo1_vnzlkc.png',
       'gallarey': [
         {
@@ -3705,6 +3713,7 @@ export const products: Product[] = [
       'oldPrice': 43000,
       'best': true,
       'featured': true,
+      'stock': 'Fuera de Stock',
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1716577634/MetaStore/BalaVibradoraCajaDiagonal_dwao4k.png',
       'gallarey': [
         {
@@ -3978,6 +3987,7 @@ export const products: Product[] = [
       'oldPrice': 48000,
       'best': true,
       'featured': true,
+      'stock': 'Fuera de Stock',
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1716583807/MetaStore/Aceitefero1_gueojr.png',
       'gallarey': [
         {
@@ -4051,6 +4061,146 @@ export const products: Product[] = [
       ],
       'stars': 5,
       'description': 'El exfoliante facial the barbershop for men x 250g es ideal para realizar limpieza facial ya que Elimina las células muertas e impurezas de la piel, dejándola renovada, suave y fresca. El exfoliante the barbershop está diseñado especialmente para el cuidado masculino ya que Contiene ingredientes activos como el colágeno y la vitamina E y semillas de albaricoque, que lo hace muy suave con la piel, es ideal para el cuidado de la piel se recomienda realizar exfoliación mínimo 1 vez por semana para evitar la aparición de imperfecciones como barros y espinillas.',
+  },
+  {
+      'id': 'UUIDP0150',
+      'title': 'Lotions',
+      'name': 'Jaque Parfum',
+      'brand': 'Yanbal',
+      'price': 125000,
+      'oldPrice': 140000,
+      'best': true,
+      'featured': true,
+      'time': 'Nuevo',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1718927771/MetaStore/Hake_pxtwys.jpg',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1718927771/MetaStore/Hake_pxtwys.jpg',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1718927771/MetaStore/Hake_pxtwys.jpg',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1718927771/MetaStore/Hake_pxtwys.jpg',
+        },
+      ],
+      'stars': 5,
+      'description': '¿Qué es?. Un perfume para hombre ambarado licoroso. El aroma de los hombres con tácticas y estrategias perfectas. Toques especiados de azafrán, el más fino coñac y roble real. Un aroma ambarado licoroso con notas azafrán, coñac y roble real. Un perfume para hombre con intensidad muy alta que acompañará tus mejores jugadas..',
+  },
+  {
+      'id': 'UUIDP0151',
+      'title': 'Lotions',
+      'name': 'Temptation Eau de Parfum',
+      'brand': 'Yanbal',
+      'price': 125000,
+      'oldPrice': 140000,
+      'best': true,
+      'featured': true,
+      'time': 'Nuevo',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1718927771/MetaStore/Tentation_c3swkj.jpg',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1718929667/MetaStore/Tentation2_aeivz6.jpg',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1718927771/MetaStore/Tentation_c3swkj.jpg',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1718929667/MetaStore/Tentation2_aeivz6.jpg',
+        },
+      ],
+      'stars': 5,
+      'description': '¿Qué es?. Un perfume para hombre herbal maderoso, impactante y muy seductor que combina hojas de menta, un toque dulce de néctar de mandarina y madera de sándalo. Un aroma herbal maderoso con notas de menta, néctar de mandarina y madera de sándalo. Su intensidad alta es perfecta para que nunca pases desapercibido. Un perfume que seduce por donde vayas!',
+  },
+  {
+      'id': 'UUIDP0152',
+      'title': 'Lotions',
+      'name': 'Solo Parfum',
+      'brand': 'Yanbal',
+      'price': 100000,
+      'oldPrice': 115000,
+      'best': true,
+      'featured': true,
+      'time': 'Nuevo',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1718927771/MetaStore/Solo_hnmcxi.jpg',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1718929667/MetaStore/Solo2_e0ccul.jpg',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1718929667/MetaStore/Solo3_e0gls8.gif',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1718927771/MetaStore/Solo_hnmcxi.jpg',
+        },
+      ],
+      'stars': 5,
+      'description': '¿Qué es?. Un perfume para hombre maderoso cítrico. Una mezcla poderosa de ingredientes con toques de cáscara de mandarina, una nota picante de jengibre y un fondo elegante de cuero. Un aroma impactante, cómplice del hombre que conoce perfectamente el poder del éxito!',
+  },
+  {
+      'id': 'UUIDP0153',
+      'title': 'Lotions',
+      'name': 'Temptation Black Eau de Parfum',
+      'brand': 'Yanbal',
+      'price': 105000,
+      'oldPrice': 120000,
+      'best': true,
+      'featured': true,
+      'time': 'Nuevo',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1718927771/MetaStore/Tentatio-black_jbj8sq.jpg',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1718929667/MetaStore/Tentation-black3_st8wl2.jpg',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1718929667/MetaStore/Tentation-black2_vper4w.jpg',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1718927771/MetaStore/Tentatio-black_jbj8sq.jpg',
+        },
+      ],
+      'stars': 5,
+      'description': '¿Qué es?. Un perfume herbal ambarado para hombre, con notas de pimienta negra, el toque cálido y provocativo del cacao natural sobre un fondo masculino y sofisticado de cedro. ¡El aroma con el que ningún hombre pasará desapercibido!',
+  },
+  {
+      'id': 'UUIDP0154',
+      'title': 'Lotions',
+      'name': 'Kaiak O2 masculino',
+      'brand': 'Natura',
+      'price': 100000,
+      'oldPrice': 120000,
+      'best': true,
+      'featured': true,
+      'time': 'Nuevo',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1719097964/MetaStore/129610_1_2-removebg-preview_fwtcqe.png',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1719097964/MetaStore/129610_1_2-removebg-preview_fwtcqe.png',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1719097964/MetaStore/129610_1_2-removebg-preview_fwtcqe.png',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1719097964/MetaStore/129610_1_2-removebg-preview_fwtcqe.png',
+        },
+      ],
+      'stars': 5,
+      'description': 'Potentes moléculas acuáticas y cítricas efervescentes ganan personalidad con un toque de maderas húmedas y la frescura del poleo, ingrediente de la biodiversidad brasileña. Envase con más del 50% de plástico reciclado extraído de las ciudades costeras y 15 ingredientes reciclados en la fórmula de Kaiak O2 Masculino',
   },
   // Otros productos...
 ];
