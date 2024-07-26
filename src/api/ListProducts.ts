@@ -2718,7 +2718,7 @@ export const products: Product[] = [
         },
       ],
       'stars': 5,
-      'description': 'El Tratamiento Mais Lisos x 1000 gr de Skala es una solución integral para el cuidado del cabello, proporcionando una hidratación profunda y protección desde la raíz hasta las puntas. Este producto, presentado en un práctico envase de 1000 gr, está enriquecido con vitamina E y otros nutrientes esenciales.',
+      'description': 'La cera con MINOXIDIL x 150g barbershop es una cera cremosa a base de aceite de oliva, castor y coco, su componente principal es El MINOXIDIL que es conocido por sus beneficios para detener la caída del cabello y estimular el crecimiento del cabello fuerte y con mayor grosor, lo que la hace ideal para personas con problemas de perdida de cabello o con cabello seco y personas con baja densidad capilar. La cera con Minoxidil tiene una fijación media-baja, fija, moldea y da definición a tu peinado sin dejar sensación pesada o acartonada..',
   },
     {
       'id': 'UUIDP0100',
@@ -2942,8 +2942,8 @@ export const products: Product[] = [
       'title': 'Cosmetics',
       'name': 'Polvo Compacto Bosley',
       'brand': 'Bosley',
-      'price': 16000,
-      'oldPrice': 1800,
+      'price': 22000,
+      'oldPrice': 25000,
       'best': false,
       'featured': false,
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1713210403/MetaStore/BOSL0124_mSQ6woK_qxipuq.jpg',
@@ -3352,7 +3352,7 @@ export const products: Product[] = [
       'oldPrice': 41000,
       'best': true,
     'featured': true,
-      'stock': 'Fuera de Stock',
+      /* 'stock': 'Fuera de Stock', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1715967666/MetaStore/intimo1_yv98sk.png',
       'gallarey': [
         {
@@ -4179,7 +4179,7 @@ export const products: Product[] = [
       'title': 'Lotions',
       'name': 'Kaiak O2 masculino',
       'brand': 'Natura',
-      'price': 100000,
+      'price': 99000,
       'oldPrice': 120000,
       'best': true,
       'featured': true,
@@ -4201,6 +4201,62 @@ export const products: Product[] = [
       ],
       'stars': 5,
       'description': 'Potentes moléculas acuáticas y cítricas efervescentes ganan personalidad con un toque de maderas húmedas y la frescura del poleo, ingrediente de la biodiversidad brasileña. Envase con más del 50% de plástico reciclado extraído de las ciudades costeras y 15 ingredientes reciclados en la fórmula de Kaiak O2 Masculino',
+  },
+  {
+      'id': 'UUIDP0155',
+      'title': 'Lotions',
+      'name': 'Kaiak O2 femenino',
+      'brand': 'Natura',
+      'price': 99000,
+      'oldPrice': 118000,
+      'best': true,
+      'featured': true,
+      'time': 'Nuevo',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1719255593/MetaStore/KAIAK-O2_yrcwtl.png',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1719255593/MetaStore/KAIAK-O2_yrcwtl.png',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1719255593/MetaStore/KAIAK-O2_yrcwtl.png',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1719255593/MetaStore/KAIAK-O2_yrcwtl.png',
+        },
+      ],
+      'stars': 5,
+      'description': 'Un buqué floral cristalino y notas cítricas burbujeantes que ganan aún más fuerza con potentes moléculas acuáticas y la frescura del poleo, ingrediente de la biodiversidad brasileña. Envase con más del 50% de plástico reciclado extraído de las ciudades costeras y 12 ingredientes reciclados en la fórmula de Kaiak O2 Femenino.',
+  },
+  {
+      'id': 'UUIDP0156',
+      'title': 'Cosmetics',
+      'name': 'Rayitos de Sol Kit',
+      'brand': 'Corporal',
+      'price': 22000,
+      'oldPrice': 25500,
+      'best': true,
+      'featured': true,
+      'time': 'Nuevo',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1720025965/MetaStore/WhatsApp_Image_2024-06-13_at_7.59.55_PM_yqdey3.jpg',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1720025965/MetaStore/WhatsApp_Image_2024-06-13_at_7.59.54_PM_txqmtk.jpg',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1720025965/MetaStore/WhatsApp_Image_2024-06-13_at_7.59.55_PM_1_dfmb8b.jpg',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1720025965/MetaStore/WhatsApp_Image_2024-06-13_at_7.59.55_PM_2_qc4lk9.jpg',
+        },
+      ],
+      'stars': 5,
+      'description': 'Es un decolorante en polvo con alto y rápido poder de decoloración para  vellos de brazos, piernas, espalda, abdomen, gluteos… Son tres pasos que ayudaran a decolorar los vellos de manera fácil ,rápida y protegiendo tu piel. 1.Aceite Coco de playa: Podrás gozar de una extrema protección, contiene ácidos grasos esenciales como el ácido láurico, el ácido linoléico, el ácido caprílico y el ácido cáprico, entre otros, es ideal para mantener la piel en buen estado y bien nutrida. Además, contiene vitaminas E y K. 2.Decolorante en polvo+mezcla de oxigenta.  3.Disfruta de una decoloración sin picazón.',
   },
   // Otros productos...
 ];
