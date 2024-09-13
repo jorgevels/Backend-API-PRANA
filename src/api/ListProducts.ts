@@ -3459,28 +3459,28 @@ export const products: Product[] = [
       'title': 'Intimos',
       'name': 'Perfume pheromonas para mujer',
       'brand': 'Sen Intimo',
-      'price': 46000,
-      'oldPrice': 49000,
+      'price': 42000,
+      'oldPrice': 46000,
       'best': true,
       'featured': true,
-      'stock': 'Fuera de Stock',
-      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1715972198/MetaStore/Feromonas_zg0hhu.jpg',
+      /* 'stock': 'Fuera de Stock', */
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989508/MetaStore/FeromonasW1_xjhrfy.webp',
       'gallarey': [
         {
           'sku': 'v2SmiuNbZ8',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1715972197/MetaStore/Feromonasmujer2_o4mic4.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989508/MetaStore/FeromonasW2_egf0xd.avif',
         },
         {
           'sku': 'GP7Mv3RZR2',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1715972198/MetaStore/Feromonas_zg0hhu.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989509/MetaStore/FeromonasW3_eksyse.webp',
         },
         {
           'sku': 'do4wJiZOc1',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1715972197/MetaStore/Feromonasmujer2_o4mic4.jpg',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989508/MetaStore/FeromonasW1_xjhrfy.webp',
         },
       ],
       'stars': 5,
-      'description': '¡Conquista al que quieras! totalmente sin olor y concentradas, perfectas para combinarlas con tu loción preferida. Aplica 10 gotas de feromonas concentradas en tu loción favorita y vuélvete totalmente irresistible para el sexo opuesto. Las feromonas son sustancias químicas naturales segregadas por el cuerpo a través de la transpiración (sudor), cuyo olor se desprende encargándose de atraer al que deseemos. Este producto sin olor se acciona por el calor de tu propio cuerpo, incrementando la secreción normal de feromonas, haciéndote más irresistible.',
+      'description': 'Descubre el secreto de la atracción con nuestras Feromonas Concentradas Roll On para Mujer. Este producto, en un práctico formato de 10ml, está diseñado para potenciar tu encanto natural y aumentar tu confianza en cualquier situación. Características principales: Alta Concentración: Formulado con una alta concentración de feromonas, maximiza tu atractivo y magnetismo. Formato Roll On: Aplicación fácil y precisa gracias a su formato roll on, perfecto para llevar en el bolso y usar en cualquier momento del día. Aroma Sutil: Disfruta de un aroma delicado y agradable que se mezcla perfectamente con tu perfume favorito sin sobrecargar tu fragancia. Duración Prolongada: Una pequeña aplicación es suficiente para mantener sus efectos durante horas, asegurando que te sientas segura y atractiva durante todo el día..',
   },
   {
       'id': 'UUIDP0129',
@@ -3515,11 +3515,11 @@ export const products: Product[] = [
       'title': 'Intimos',
       'name': 'Lubricante Electrizante Caliente Lychee',
       'brand': 'Sen Intimo',
-      'price': 31000,
-      'oldPrice': 33500,
+      'price': 37000,
+      'oldPrice': 39000,
       'best': true,
       'featured': true,
-      'stock': 'Fuera de Stock',
+      /* 'stock': 'Fuera de Stock', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1715974917/MetaStore/LubricanteLiche1_cqwnlk.png',
       'gallarey': [
         {
@@ -3629,7 +3629,8 @@ export const products: Product[] = [
       'price': 37000,
       'oldPrice': 39000,
       'best': true,
-      'featured': true,
+    'featured': true,
+     /*  'stock': 'Fuera de Stock', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1715976501/MetaStore/LubriAnal1_bdk2xy.png',
       'gallarey': [
         {
@@ -3741,23 +3742,23 @@ export const products: Product[] = [
       'oldPrice': 13000,
       'best': true,
       'featured': true,
-      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1716578098/MetaStore/Burbuja_ursukd.png',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1726242041/MetaStore/Burbujas-de-amor-sen-intimo_jkx4sv.webp',
       'gallarey': [
         {
           'sku': 'v2SmiuNbZ8',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1716578098/MetaStore/Burbuja2_ubvqxw.png',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1726242041/MetaStore/Burbujas-de-amor-sen-intimo_jkx4sv.webp',
         },
         {
           'sku': 'GP7Mv3RZR2',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1716578098/MetaStore/Burbuja_ursukd.png',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1726242041/MetaStore/Burbujas-de-amor-sen-intimo_jkx4sv.webp',
         },
         {
           'sku': 'do4wJiZOc1',
-          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1716578098/MetaStore/Burbuja2_ubvqxw.png',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1726242041/MetaStore/Burbujas-de-amor-sen-intimo_jkx4sv.webp',
         },
       ],
       'stars': 5,
-      'description': 'Transforma tu rutina de baño en un momento especial con Burbuja de Amor x60 ml de Sen Intimo. Esta espuma de baño te ofrece la combinación perfecta de suavidad y frescura para una experiencia relajante. Para disfrutar de un baño burbujeante, tapona la salida del agua, agrega la cantidad deseada de Burbuja de Amor y llena la bañera. A mayor presión del agua, ¡más burbujas obtendrás!',
+      'description': 'La Espuma de baño Sen es un producto para obtener un baño relajante en el que las espumas y los agentes hidratantes le dan a la piel la suavidad necesaria para tener una agradable sensación de frescura. Modo de uso: Para usar en bañera, se debe taponar la salida del agua y depositar la cantidad deseada de "Espuma de baño Sen". Se debe abrir la llave inferior del agua y llenar la tina o bañera. Recuerde que a mayor presión del agua, se obtendrá mayor cantidad de burbujas. Este producto no se debe mezclar con aceites, ya que pierde el poder espumante.',
   },
   {
       'id': 'UUIDP0139',
@@ -4258,6 +4259,231 @@ export const products: Product[] = [
       'stars': 5,
       'description': 'Es un decolorante en polvo con alto y rápido poder de decoloración para  vellos de brazos, piernas, espalda, abdomen, gluteos… Son tres pasos que ayudaran a decolorar los vellos de manera fácil ,rápida y protegiendo tu piel. 1.Aceite Coco de playa: Podrás gozar de una extrema protección, contiene ácidos grasos esenciales como el ácido láurico, el ácido linoléico, el ácido caprílico y el ácido cáprico, entre otros, es ideal para mantener la piel en buen estado y bien nutrida. Además, contiene vitaminas E y K. 2.Decolorante en polvo+mezcla de oxigenta.  3.Disfruta de una decoloración sin picazón.',
   },
+  {
+      'id': 'UUIDP0157',
+      'title': 'Intimos',
+      'name': 'Lubricante Intimo Anal Desensibilizante',
+      'brand': 'Sen Intimo',
+      'price': 37000,
+      'oldPrice': 41000,
+      'best': true,
+      'featured': true,
+      'time': 'Nuevo',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1722806434/MetaStore/AnalDesensi_qivp1b.webp',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1722806434/MetaStore/AnalDesensi3_di4tho.webp',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1722806434/MetaStore/AnalDesensi2_dzk3bd.webp',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1722806434/MetaStore/AnalDesensi_qivp1b.webp',
+        },
+      ],
+      'stars': 5,
+      'description': 'Explora el mundo del placer anal sin dolor con nuestro Lubricante Anal Sen Íntimo. Su fórmula desensibilizante y anestésica, este lubricante garantiza una relajación óptima de la zona, eliminando cualquier molestia o incomodidad. Su textura suave al tacto proporciona una experiencia sensual única, mientras que su base de agua asegura una lubricación de larga duración.',
+  },
+  {
+      'id': 'UUIDP0158',
+      'title': 'Intimos',
+      'name': 'Lubricante Caliente Caramelo',
+      'brand': 'Sen Intimo',
+      'price': 25000,
+      'oldPrice': 29000,
+      'best': true,
+      'featured': true,
+      'time': 'Nuevo',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989502/MetaStore/Caramelo3_vz3joj.webp',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989502/MetaStore/Caramelo1_rgwmwl.avif',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989502/MetaStore/Caramelo2_wh8us4.webp',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989502/MetaStore/Caramelo3_vz3joj.webp',
+        },
+      ],
+      'stars': 4,
+      'description': 'Descubre un nuevo nivel de placer con nuestro Lubricante Caliente Caramelo Sen Intimo. Diseñado para elevar tus momentos íntimos, este lubricante te sumerge en una sensación de calor emocionante y un delicioso sabor a caramelo.Aplica este lubricante para intensificar la conexión y disfrutar de una experiencia única. Garantiza un uso prolongado, permitiéndote explorar el placer a tu propio ritmo. Perfecto para agregar un toque de diversión y dulzura a tus encuentros íntimos..',
+  },
+  {
+      'id': 'UUIDP0159',
+      'title': 'Intimos',
+      'name': 'Lubricante Caliente Cafe Moka X 30Ml',
+      'brand': 'Sen Intimo',
+      'price': 25000,
+      'oldPrice': 29000,
+      'best': true,
+      'featured': true,
+      'time': 'Nuevo',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989512/MetaStore/Moka1_xxegyg.webp',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989512/MetaStore/Moka2_d55zde.webp',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989512/MetaStore/Moka3_s8gh3q.avif',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989512/MetaStore/Moka1_xxegyg.webp',
+        },
+      ],
+      'stars': 5,
+      'description': 'Despierta tus sentidos con lubricante íntimo caliente Café Moka, el toque especial para hacer tu vida íntima más divertida y emocionante. Este producto único te permite disfrutar de un calor emocionante y un delicioso sabor en tus momentos más íntimos. El modo de uso es sencillo y versátil: aplica Cafe Moka sobre la zona íntima o preservativo, estimula, genera fricción o sopla para experimentar la sensación de calor. Apto para sexo oral y penetración, este producto agrega un elemento juguetón y delicioso a tus encuentros íntimos.',
+  },
+  {
+      'id': 'UUIDP0160',
+      'title': 'Intimos',
+      'name': 'Feromonas concentradas X10ml Roll On Hombre',
+      'brand': 'Sen Intimo',
+      'price': 40000,
+      'oldPrice': 47000,
+      'best': true,
+      'featured': true,
+      'time': 'Nuevo',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989505/MetaStore/FeromonaMen1_r1xf6h.webp',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989506/MetaStore/FeromonaMen2_cv9x88.webp',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989508/MetaStore/FeromonaMen3_tqfykf.avif',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989505/MetaStore/FeromonaMen1_r1xf6h.webp',
+        },
+      ],
+      'stars': 5,
+      'description': 'Descubre el secreto de la atracción con nuestras Feromonas Concentradas Roll On para Hombre. Este producto, en un práctico formato de 10ml. Características principales: Alta Concentración: Formulado con una alta concentración de feromonas, maximiza tu atractivo y magnetismo. Formato Roll On: Aplicación fácil y precisa gracias a su formato roll on. Duración Prolongada: Una pequeña aplicación es suficiente para mantener sus efectos durante horas Beneficios: Aumenta la Confianza: Las feromonas naturales incrementan tu confianza y seguridad, ayudándote a causar una impresión inolvidable.',
+  },
+  /* {
+      'id': 'UUIDP0161',
+      'title': 'Intimos',
+      'name': 'Feromonas concentradas X10ml Roll On Mujer',
+      'brand': 'Sen Intimo',
+      'price': 40000,
+      'oldPrice': 47000,
+      'best': true,
+      'featured': true,
+      'time': 'Nuevo',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1722806434/MetaStore/AnalDesensi_qivp1b.webp',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1722806434/MetaStore/AnalDesensi3_di4tho.webp',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1722806434/MetaStore/AnalDesensi2_dzk3bd.webp',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1722806434/MetaStore/AnalDesensi_qivp1b.webp',
+        },
+      ],
+      'stars': 5,
+      'description': 'Descubre el secreto de la atracción con nuestras Feromonas Concentradas Roll On para  Mujer. Este producto, en un práctico formato de 10ml, está diseñado para potenciar tu encanto natural y aumentar tu confianza en cualquier situación. Características principales: Alta Concentración: Formulado con una alta concentración de feromonas, maximiza tu atractivo y magnetismo. Formato Roll On: Aplicación fácil y precisa gracias a su formato roll on, perfecto para llevar en el bolso y usar en cualquier momento del día. Aroma Sutil: Disfruta de un aroma delicado y agradable que se mezcla perfectamente con tu perfume favorito sin sobrecargar tu fragancia. Duración Prolongada: Una pequeña aplicación es suficiente para mantener sus efectos durante horas, asegurando que te sientas segura y atractiva durante todo el día. Versatilidad: Ideal para citas, eventos sociales, o cualquier ocasión en la que desees destacar y sentirte más segura.',
+  }, */
+  {
+      'id': 'UUIDP0162',
+      'title': 'Intimos',
+      'name': 'Brillo Labial Cereza con Feromonas',
+      'brand': 'Sen Intimo',
+      'price': 25000,
+      'oldPrice': 31000,
+      'best': true,
+      'featured': true,
+      'time': 'Nuevo',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989502/MetaStore/Brillo1_fv2dfc.webp',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989502/MetaStore/Brillo2_vbkdga.webp',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989502/MetaStore/Brillo1_fv2dfc.webp',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989502/MetaStore/Brillo2_vbkdga.webp',
+        },
+      ],
+      'stars': 5,
+      'description': 'Atrévete a resaltar tu sensualidad con Brillo Labial Cereza. Este brillo no solo le da un sabor delicioso a tus labios, sino que también contiene feromonas para un toque extra de seducción. El irresistible sabor a cereza y el aroma cautivador hacen de este brillo labial una elección perfecta para momentos íntimos. Aplica con confianza y disfruta de unos labios jugosos y seductores.',
+  },
+  {
+      'id': 'UUIDP0163',
+      'title': 'Intimos',
+      'name': 'Multiorgasmos Frio/Calor X30 Ml',
+      'brand': 'Sen Intimo',
+      'price': 37000,
+      'oldPrice': 42000,
+      'best': true,
+      'featured': true,
+      'time': 'Nuevo',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989510/MetaStore/FrioCalor1_gwnbzq.webp',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989510/MetaStore/FrioCalor2_h7ilqw.webp',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989511/MetaStore/FrioCalor3_ajydeg.avif',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989510/MetaStore/FrioCalor1_gwnbzq.webp',
+        },
+      ],
+      'stars': 5,
+      'description': 'Vive experiencias únicas y estimulantes con Multiorgasmos Frio/Calor x30 ml Sen Intimo. Este lubricante innovador ofrece cambios de temperatura que despiertan tus sentidos y elevan tus encuentros íntimos a otro nivel. La fórmula única de Frio/Calor permite experimentar cambios sensoriales de temperatura, mejorando el flujo sanguíneo y aumentando la sensibilidad en tu zona íntima. Este lubricante es la clave para alcanzar mayores niveles de placer y disfrutar de momentos íntimos más intensos. El modo de uso es simple: masajea suavemente y en círculos alrededor del clítoris y los labios vaginales para potenciar el placer. Experimenta un calor emocionante y delicioso sabor. Usa en la zona íntima o en el preservativo, estimula, frota o sopla para sentir el calor. Apto para sexo oral y penetración. ¡Juega con tus sentidos! ',
+  },
+  {
+      'id': 'UUIDP0164',
+      'title': 'Intimos',
+      'name': 'Multiorgasmos Euforia X30ML',
+      'brand': 'Sen Intimo',
+      'price': 37000,
+      'oldPrice': 41000,
+      'best': true,
+      'featured': true,
+      'time': 'Nuevo',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989505/MetaStore/Euforia1_hxxpwr.webp',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989505/MetaStore/Euforia2_ffywny.webp',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989505/MetaStore/Euforia3_ukqivd.avif',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989505/MetaStore/Euforia1_hxxpwr.webp',
+        },
+      ],
+      'stars': 5,
+      'description': 'Descubre el placer intenso y duradero con Multiorgasmos Euforia Sen Intimo. Este lubricante, enriquecido con extracto de cannabis sativa, está diseñado para elevar tus momentos íntimos a nuevas alturas. Experimenta sensaciones eufóricas mientras te ayuda a estimular para alcanzar un orgasmo.',
+  },
+  
   // Otros productos...
 ];
 
