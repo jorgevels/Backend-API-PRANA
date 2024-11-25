@@ -2317,7 +2317,7 @@ export const products: Product[] = [
       'title': 'FacialCare',
       'name': 'Protector aclarador de manchas FPS 50 ',
       'brand': 'Natura',
-      'price': 88000,
+      'price': 90000,
       'oldPrice': 99000,
       'best': false,
       'featured': false,
@@ -2345,8 +2345,8 @@ export const products: Product[] = [
       'title': 'FacialCare',
       'name': 'Protector solar facial en gel FPS50',
       'brand': 'Natura',
-      'price': 52000,
-      'oldPrice': 58000,
+      'price': 55000,
+      'oldPrice': 59000,
       'best': false,
       'featured': false,
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1712441618/MetaStore/Protn-1_x1eun4.jpg',
@@ -2365,7 +2365,7 @@ export const products: Product[] = [
         },
       ],
       'stars': 5,
-      'description': 'Protección solar y acción multiaclaradora para reducir las diferencias del tono de la piel. Aclara manchas e impide su aparición. Fórmula con toque seco y rápida absorción. Cobertura natural que disimula imperfecciones y uniformiza el tono de la piel.',
+      'description': 'GEL CREMA TOQUE SECO. Protector solar UVB/UVA Facial piel miSta a oleosa. Protege del sol y previene el envejecimiento prematuro. Resistente al agua y al sudor.',
   },
     {
       'id': 'UUIDP0087',
@@ -2392,15 +2392,15 @@ export const products: Product[] = [
         },
       ],
       'stars': 5,
-      'description': 'Hidratación Intensiva. Textura ligera. Formación de película humectante. Toque seco.',
+      'description': 'GEL CREMA HIDRATANTE.Hidratación Intensiva. Textura ligera. Formación de película humectante. Toque seco.',
   },
     {
       'id': 'UUIDP0088',
       'title': 'FacialCare',
       'name': 'Protector solar facial en gel FPS30',
       'brand': 'Yambal',
-      'price': 52000,
-      'oldPrice': 58000,
+      'price': 55000,
+      'oldPrice': 59000,
       'best': false,
       'featured': false,
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1712441618/MetaStore/Protn-2_kouoqw.jpg',
@@ -2419,7 +2419,7 @@ export const products: Product[] = [
         },
       ],
       'stars': 5,
-      'description': 'Protección solar y acción multiaclaradora para reducir las diferencias del tono de la piel. Aclara manchas e impide su aparición. Fórmula con toque seco y rápida absorción. Cobertura natural que disimula imperfecciones y uniformiza el tono de la piel.',
+      'description': 'GEL CREMA TOQUE SECO. Protector solar UVB/UVA Facial piel miSta a oleosa. Protege del sol y previene el envejecimiento prematuro. Resistente al agua y al sudor.',
   },
     {
       'id': 'UUIDP0089',
@@ -2446,7 +2446,7 @@ export const products: Product[] = [
         },
       ],
       'stars': 5,
-      'description': 'Un protector solar con la fórmula perfecta, dermatológicamente probada, para estar siempre protegido de los rayos del sol.',
+      'description': 'Un protector solar con la fórmula perfecta, dermatológicamente probada, para estar siempre protegido de los rayos del sol. ¿Cuáles son sus beneficios?, Muy alta protección! Protege contra el 100% los rayos dañinos del sol (UVA, UVB), rayos IR y luz azul. Brinda hidratación, es resistente al agua y al sudor. Además, es de rápida absorción! Para todo tipo de piel.', 
   },
     {
       'id': 'UUIDP0090',
@@ -2473,14 +2473,14 @@ export const products: Product[] = [
         },
       ],
       'stars': 5,
-      'description': 'Total Block Kids renovó su fórmula de SPF 70 a SPF 100 para brindar mayor protección para la delicada piel de los niños. Además, ahora protege contra el 100% de los rayos dañinos del sol con una fórmula no lágrimas y más contenido para que la diversión no termine.',
+      'description': 'Total Block Kids renovó su fórmula de SPF 70 a SPF 100 para brindar mayor protección para la delicada piel de los niños. Además, ahora protege contra el 100% de los rayos dañinos del sol con una fórmula no lágrimas y más contenido para que la diversión no termine. ¿Cuáles son sus beneficios? Muy alta protección! Su fórmula ha sido testeada bajo control pediátrico, por lo que es ideal para la piel delicada y sensible de los niños. No irrita ni arde los ojos, es muy resistente al agua y al sudor. Ahora ofrece un mayor contenido, aumentando de 110 g a 140 g, para que tus niños estén siempre protegidos.',
   },
     {
       'id': 'UUIDP0091',
       'title': 'FacialCare',
       'name': 'Total Block Protector Solar Matificante SPF100',
       'brand': 'Yambal',
-      'price': 55000,
+      'price': 56000,
       'oldPrice': 66000,
       'best': false,
       'featured': false,
@@ -2500,7 +2500,7 @@ export const products: Product[] = [
         },
       ],
       'stars': 5,
-      'description': 'Un bloqueador solar matificante que además de proteger tu piel de los rayos del sol, la deja sin residuos blancos ni pegajosos. Protege tu piel con un acabado súper ligero y sin brillo!',
+      'description': 'Un bloqueador solar matificante que además de proteger tu piel de los rayos del sol, la deja sin residuos blancos ni pegajosos. Protege tu piel con un acabado súper ligero y sin brillo!. ¿Cuáles son sus beneficios? Muy alta protección de Total Block con acabado matificante de larga duración, perfecta para olvidarte del brillo de tu piel. Además, tiene protección contra el 100% de los rayos dañinos del sol: UVB, UVA, IR, luz azul y radicales libres. Cuida tu piel todo el día!',
   },
     {
       'id': 'UUIDP0092',
@@ -3380,7 +3380,7 @@ export const products: Product[] = [
       'oldPrice': 27000,
       'best': true,
       'featured': true,
-      'time': 'Nuevo',
+  /*     'time': 'Nuevo', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1717176373/MetaStore/LUBRICANTE-CORAZON1_tuvocz.png',
       'gallarey': [
         {
@@ -3435,7 +3435,7 @@ export const products: Product[] = [
       'oldPrice': 39500,
       'best': true,
       'featured': true,
-      'time': 'Nuevo',
+     /*  'time': 'Nuevo', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1715972432/MetaStore/Estrechante_fberz1.jpg',
       'gallarey': [
         {
@@ -3459,8 +3459,8 @@ export const products: Product[] = [
       'title': 'Intimos',
       'name': 'Perfume pheromonas para mujer',
       'brand': 'Sen Intimo',
-      'price': 42000,
-      'oldPrice': 46000,
+      'price': 44000,
+      'oldPrice': 48000,
       'best': true,
       'featured': true,
       /* 'stock': 'Fuera de Stock', */
@@ -3491,7 +3491,7 @@ export const products: Product[] = [
       'oldPrice': 39500,
       'best': true,
      'featured': true,
-      'time': 'Nuevo',
+     /*  'time': 'Nuevo', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1715972730/MetaStore/Garganta_z1kelg.png',
       'gallarey': [
         {
@@ -3658,7 +3658,7 @@ export const products: Product[] = [
       'oldPrice': 41000,
       'best': true,
       'featured': true,
-      'time': 'Nuevo',
+     /*  'time': 'Nuevo', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1716573406/MetaStore/Mango1_lxpxgi.png',
       'gallarey': [
         {
@@ -3686,7 +3686,6 @@ export const products: Product[] = [
       'oldPrice': 28500,
       'best': true,
       'featured': true,
-      'stock': 'Fuera de Stock',
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1716573721/MetaStore/Anillo1_vnzlkc.png',
       'gallarey': [
         {
@@ -3742,6 +3741,7 @@ export const products: Product[] = [
       'oldPrice': 13000,
       'best': true,
       'featured': true,
+       'stock': 'Fuera de Stock',
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1726242041/MetaStore/Burbujas-de-amor-sen-intimo_jkx4sv.webp',
       'gallarey': [
         {
@@ -3768,8 +3768,8 @@ export const products: Product[] = [
       'price': 40000,
       'oldPrice': 43000,
       'best': true,
-      'featured': true,
-      'time': 'Nuevo',
+      'featured': true,/* 
+      'time': 'Nuevo', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1716578344/MetaStore/Trio1_iw3dlc.png',
       'gallarey': [
         {
@@ -3797,6 +3797,7 @@ export const products: Product[] = [
       'oldPrice': 28000,
       'best': true,
       'featured': true,
+      'stock': 'Fuera de Stock',
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1716580375/MetaStore/Menta1_bht0eh.png',
       'gallarey': [
         {
@@ -3824,7 +3825,7 @@ export const products: Product[] = [
       'oldPrice': 40500,
       'best': true,
       'featured': true,
-      'time': 'Nuevo',
+     /*  'time': 'Nuevo', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1716582758/MetaStore/Retardante1_pqbqoy.jpg',
       'gallarey': [
         {
@@ -3852,6 +3853,7 @@ export const products: Product[] = [
       'oldPrice': 26500,
       'best': true,
       'featured': true,
+      'stock': 'Fuera de Stock',
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1716583035/MetaStore/Neutro1_plvg5h.png',
       'gallarey': [
         {
@@ -3879,7 +3881,7 @@ export const products: Product[] = [
       'oldPrice': 41000,
       'best': true,
       'featured': true,
-      'time': 'Nuevo',
+     /*  'time': 'Nuevo', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1716583271/MetaStore/Tequila1_ww01af.png',
       'gallarey': [
         {
@@ -3930,8 +3932,8 @@ export const products: Product[] = [
       'title': 'Intimos',
       'name': 'Aceite Básico Para Masajes X30 Ml',
       'brand': 'Sen Intimo',
-      'price': 13000,
-      'oldPrice': 16000,
+      'price': 15000,
+      'oldPrice': 18000,
       'best': true,
       'featured': true,
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1716581169/MetaStore/Aceite_zqjdb5.png',
@@ -3957,8 +3959,8 @@ export const products: Product[] = [
       'title': 'Intimos',
       'name': 'Aceite Euforia X30 Ml',
       'brand': 'Sen Intimo',
-      'price': 15900,
-      'oldPrice': 18000,
+      'price': 16000,
+      'oldPrice': 19000,
       'best': true,
       'featured': true,
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1716587361/MetaStore/AceiteEuforia1_bxt8ww.png',
@@ -4016,7 +4018,7 @@ export const products: Product[] = [
       'oldPrice': 27000,
       'best': true,
       'featured': true,
-      'time': 'Nuevo',
+     /*  'time': 'Nuevo', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1717608234/MetaStore/SUERO-OIL_QGhPulw_snrfk5.jpg',
       'gallarey': [
         {
@@ -4044,7 +4046,7 @@ export const products: Product[] = [
       'oldPrice': 27000,
       'best': true,
       'featured': true,
-      'time': 'Nuevo',
+      /* 'time': 'Nuevo', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1717608921/MetaStore/EXFOLIANTE-FACIAL1_BrmGoVg_k60hwq.jpg',
       'gallarey': [
         {
@@ -4072,7 +4074,7 @@ export const products: Product[] = [
       'oldPrice': 140000,
       'best': true,
       'featured': true,
-      'time': 'Nuevo',
+      /* 'time': 'Nuevo', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1718927771/MetaStore/Hake_pxtwys.jpg',
       'gallarey': [
         {
@@ -4100,7 +4102,7 @@ export const products: Product[] = [
       'oldPrice': 140000,
       'best': true,
       'featured': true,
-      'time': 'Nuevo',
+     /*  'time': 'Nuevo', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1718927771/MetaStore/Tentation_c3swkj.jpg',
       'gallarey': [
         {
@@ -4128,7 +4130,7 @@ export const products: Product[] = [
       'oldPrice': 115000,
       'best': true,
       'featured': true,
-      'time': 'Nuevo',
+     /*  'time': 'Nuevo', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1718927771/MetaStore/Solo_hnmcxi.jpg',
       'gallarey': [
         {
@@ -4156,7 +4158,7 @@ export const products: Product[] = [
       'oldPrice': 120000,
       'best': true,
       'featured': true,
-      'time': 'Nuevo',
+      /* 'time': 'Nuevo', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1718927771/MetaStore/Tentatio-black_jbj8sq.jpg',
       'gallarey': [
         {
@@ -4184,7 +4186,7 @@ export const products: Product[] = [
       'oldPrice': 120000,
       'best': true,
       'featured': true,
-      'time': 'Nuevo',
+      /* 'time': 'Nuevo', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1719097964/MetaStore/129610_1_2-removebg-preview_fwtcqe.png',
       'gallarey': [
         {
@@ -4212,7 +4214,7 @@ export const products: Product[] = [
       'oldPrice': 118000,
       'best': true,
       'featured': true,
-      'time': 'Nuevo',
+     /*  'time': 'Nuevo', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1719255593/MetaStore/KAIAK-O2_yrcwtl.png',
       'gallarey': [
         {
@@ -4240,7 +4242,7 @@ export const products: Product[] = [
       'oldPrice': 25500,
       'best': true,
       'featured': true,
-      'time': 'Nuevo',
+   /*    'time': 'Nuevo', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1720025965/MetaStore/WhatsApp_Image_2024-06-13_at_7.59.55_PM_yqdey3.jpg',
       'gallarey': [
         {
@@ -4268,7 +4270,7 @@ export const products: Product[] = [
       'oldPrice': 41000,
       'best': true,
       'featured': true,
-      'time': 'Nuevo',
+     /*  'time': 'Nuevo', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1722806434/MetaStore/AnalDesensi_qivp1b.webp',
       'gallarey': [
         {
@@ -4324,7 +4326,7 @@ export const products: Product[] = [
       'oldPrice': 29000,
       'best': true,
       'featured': true,
-      'time': 'Nuevo',
+    /*   'time': 'Nuevo', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989512/MetaStore/Moka1_xxegyg.webp',
       'gallarey': [
         {
@@ -4348,8 +4350,8 @@ export const products: Product[] = [
       'title': 'Intimos',
       'name': 'Feromonas concentradas X10ml Roll On Hombre',
       'brand': 'Sen Intimo',
-      'price': 40000,
-      'oldPrice': 47000,
+      'price': 44000,
+      'oldPrice': 49000,
       'best': true,
       'featured': true,
       'time': 'Nuevo',
@@ -4436,7 +4438,7 @@ export const products: Product[] = [
       'oldPrice': 42000,
       'best': true,
       'featured': true,
-      'time': 'Nuevo',
+    /*   'time': 'Nuevo', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989510/MetaStore/FrioCalor1_gwnbzq.webp',
       'gallarey': [
         {
@@ -4464,7 +4466,7 @@ export const products: Product[] = [
       'oldPrice': 41000,
       'best': true,
       'featured': true,
-      'time': 'Nuevo',
+      /* 'time': 'Nuevo', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1725989505/MetaStore/Euforia1_hxxpwr.webp',
       'gallarey': [
         {
@@ -4483,9 +4485,178 @@ export const products: Product[] = [
       'stars': 5,
       'description': 'Descubre el placer intenso y duradero con Multiorgasmos Euforia Sen Intimo. Este lubricante, enriquecido con extracto de cannabis sativa, está diseñado para elevar tus momentos íntimos a nuevas alturas. Experimenta sensaciones eufóricas mientras te ayuda a estimular para alcanzar un orgasmo.',
   },
-  
+  {
+      'id': 'UUIDP0165',
+      'title': 'Intimos',
+      'name': 'Energizante X-Bull x2 pills',
+      'brand': '',
+      'price': 13000,
+      'oldPrice': 17000,
+      'best': true,
+      'featured': true,
+      'time': 'Nuevo',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1728069584/MetaStore/287040-800-800_xre2bc.png',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1728069590/MetaStore/Energizante_X-Bull_x_2_pills_hnwzzp.png',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1728069584/MetaStore/287040-800-800_xre2bc.png',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1728069590/MetaStore/Energizante_X-Bull_x_2_pills_hnwzzp.png',
+        },
+      ],
+      'stars': 5,
+      'description': 'Pastilla para el consumo femenino y másculino.\n Formulado con una patentada combinación de nutrientes naturales, que estimulan el fluido sangíneo en sus òrganos sexuales brindando una erección más firme y duradera sin ningún efecto secundario. Ayuda a disfrutar de su sexualidad con la potencia de la juventud tanto en hombres como en mujeres. Su alto contenido de Chontaduro, Borojó, Nony y Zinc, brinda beneficios no solo para su vida sexual, sino tambien para su cuerpo en general. Dosis: 1 tableta 30 minutos antes de cada relación sexual.',
+  },
+  {
+      'id': 'UUIDP0166',
+      'title': 'Intimos',
+      'name': 'Energizante Black Power',
+      'brand': '',
+      'price': 13000,
+      'oldPrice': 16000,
+      'best': true,
+      'featured': true,
+      'time': 'Nuevo',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1728069589/MetaStore/Energizante_Black_Power_yuxyi8.png',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1728069585/MetaStore/Energizante_Black_Power3_cyslj1.png',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1728069585/MetaStore/Energizante_Black_Power2_rsxafb.png',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1728069588/MetaStore/66e29600ff59_vsaumg.png',
+        },
+      ],
+      'stars': 5,
+      'description': 'BLACK POWER Píldora de energía.\n Black Power es un comprimido poderoso, 100% natural, que puede ayudarte a estimular el flujo sanguíneo brindando una erección fuerte y duradera sin causar adicción u otras afecciones, además de efectos positivos adicionales, como un aumento en el deseo sexual y vitalidad en general. La alternativa natural que no tiene ninguna contraindicación, efecto secundario o dependencia a su uso. ¿Cuál es el efecto? Por su alto contenido de Chontaduro, Borojó, Maca, Quinua, Polen, Canela y Zinc, brinda beneficios no solo para su vida sexual, sino también para su cuerpo en general.',
+  },
+  {
+      'id': 'UUIDP0167',
+      'title': 'Intimos',
+      'name': 'Energizante Revitex X30 ml',
+      'brand': '',
+      'price': 14000,
+      'oldPrice': 16000,
+      'best': true,
+      'featured': true,
+      'time': 'Nuevo',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1728069585/MetaStore/Energizante_Revitex_x_30_ml_phiean.png',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1728069585/MetaStore/Energizante_Revitex_x_30_ml_phiean.png',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1728069585/MetaStore/Energizante_Revitex_x_30_ml_phiean.png',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1728069585/MetaStore/Energizante_Revitex_x_30_ml_phiean.png',
+        },
+      ],
+      'stars': 5,
+      'description': 'Energizante líquido de potencia máxima para mejorar el rendimiento sexual. \n Revitex fue creado para satisfacer las necesidades de energía y virilidad de los más exigentes.  Es un energizante y estimulante para hombres y mujeres, obtén energía prolongada, gracias a sus beneficios naturales. Modo de uso **Agita bien antes de usar** REVITEX puede consumirse tres veces por semana, para estar siempre con energía. Este producto también es una ayuda para mejorar la erección, gracias a sus componentes naturales. Este producto se demora de 60 a 120 minutos para hacer efecto, dependiendo de metabolismo de la persona que lo consume.',
+  },
+  {
+      'id': 'UUIDP0168',
+      'title': 'Intimos',
+      'name': 'Energizante PMX de X25ml ',
+      'brand': '',
+      'price': 14000,
+      'oldPrice': 16000,
+      'best': true,
+      'featured': true,
+      'time': 'Nuevo',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1728069585/MetaStore/Energizante_Pmx_de_25ml_eenmnw.png',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1728069583/MetaStore/podermax3_xhzpcx.jpg',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1728069583/MetaStore/podermax2_plthpf.jpg',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1728069585/MetaStore/Energizante_Pmx_de_25ml_eenmnw.png',
+        },
+      ],
+      'stars': 5,
+      'description': 'PoderMax es una bebida elaborada a base de extractos naturales en altas concentraciones. Afrodisíaco y fuente natural de energía elaborada a base de Té verde, Borojó, Chontaduro, Maca, Guaraná, Licopenos y vitaminas. las cuales ayudan a tener una experiencia más placentera. Es la bebida que energiza de manera natural el cuerpo y la libido. Ideal para acompañar momentos especiales con tu pareja, satisfacción y efectividad garantizada.',
+  },
+  {
+      'id': 'UUIDP0169',
+      'title': 'Intimos',
+      'name': 'Energizante Maxifemd X30 ml',
+      'brand': '',
+      'price': 22000,
+      'oldPrice': 25000,
+      'best': true,
+      'featured': true,
+      'time': 'Nuevo',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1728069584/MetaStore/Energizante_Maxifemd_30_ml_kukvdv.png',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1728069584/MetaStore/Energizante_Maxifemd_30_ml2_zf50xd.png',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1728069584/MetaStore/Energizante_Maxifemd_30_ml_kukvdv.png',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1728069584/MetaStore/Energizante_Maxifemd_30_ml2_zf50xd.png',
+        },
+      ],
+      'stars': 5,
+      'description': 'Las mujeres necesitamos tiempo para todo:\n el trabajo, el deporte, la diversión y la familia. MAXIfemD ayuda a mejorar los estados de ánimo, concentración y circulación. También beneficia la lubricación vaginal de manera natural, gracias al incremento del flujo sanguíneo, de igual forma mejora la sensibilidad en el clítoris, la estimulación y relajación de los músculos. Con MAXIfemD Tu cuerpo tendrá una serie de respuestas positivas, obteniendo mayor excitación en las relaciones y mejor desempeño en las actividades diarias.',
+  },
+  {
+      'id': 'UUIDP0170',
+      'title': 'Intimos',
+      'name': 'Q Volta G Sobre X15 Gr',
+      'brand': 'Q',
+      'price': 12000,
+      'oldPrice': 12000,
+      'best': true,
+      'featured': true,
+      'time': 'Nuevo',
+      'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1728163944/MetaStore/287758-800-800_n2klta.webp',
+      'gallarey': [
+        {
+          'sku': 'v2SmiuNbZ8',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1728069584/MetaStore/Q_Volta_G_Sobre_X_15_Gr_y25dbk.webp',
+        },
+        {
+          'sku': 'GP7Mv3RZR2',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1728069584/MetaStore/Q_Volta_G_Sobre_X_15_Gr_y25dbk.webp',
+        },
+        {
+          'sku': 'do4wJiZOc1',
+          'url': 'https://res.cloudinary.com/imagesfull/image/upload/v1728069584/MetaStore/Q_Volta_G_Sobre_X_15_Gr_y25dbk.webp',
+        },
+      ],
+      'stars': 5,
+      'description': 'Revitalizante totalmente natural,\n seguro con tu organismo y diseñado para brindar más energia a tu cuerpo. Su efecto es 100% seguro, generando en ti más energía, mayor flujo de sangre y receptivo a los estimulos. Te sentirás más vigoroso a la hora del encuentro sexual.  Pueden tomarlo personas diabéticas o hipertensos  Apto para mujeres y hombres No tomar mujeres embarazadas o en etapa de lactancia  Tomar con 30 minutos de antelación al encuentro sexual',
+  },
   // Otros productos...
 ];
+
+
 
 // Define el tipo para la respuesta de la ruta
 type ProductsResponse = Product[];
