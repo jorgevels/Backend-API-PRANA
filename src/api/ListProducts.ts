@@ -3797,7 +3797,7 @@ export const products: Product[] = [
       'oldPrice': 28000,
       'best': true,
       'featured': true,
-      'stock': 'Fuera de Stock',
+      /* 'stock': 'Fuera de Stock', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1716580375/MetaStore/Menta1_bht0eh.png',
       'gallarey': [
         {
@@ -3853,7 +3853,7 @@ export const products: Product[] = [
       'oldPrice': 26500,
       'best': true,
       'featured': true,
-      'stock': 'Fuera de Stock',
+      /* 'stock': 'Fuera de Stock', */
       'image': 'https://res.cloudinary.com/imagesfull/image/upload/v1716583035/MetaStore/Neutro1_plvg5h.png',
       'gallarey': [
         {
@@ -4490,7 +4490,7 @@ export const products: Product[] = [
       'title': 'Intimos',
       'name': 'Energizante X-Bull x2 pills',
       'brand': '',
-      'price': 16000,
+      'price': 15000,
       'oldPrice': 17500,
       'best': true,
       'featured': true,
